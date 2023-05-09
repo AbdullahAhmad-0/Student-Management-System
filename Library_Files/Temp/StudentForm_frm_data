@@ -1,0 +1,8 @@
+Roll No,sroll_,text,1,100,1
+Student Name,name_,text,2,100,1
+Father Name,fname_,text,3,100,1
+Phone Number,phone_,text,4,100,0
+Code,code_,text,5,100,0
+Technology,technology_,combo,6,100,1
+Class,class_,combo,7,100,1
+Shift,shift_,combo,8,100,1

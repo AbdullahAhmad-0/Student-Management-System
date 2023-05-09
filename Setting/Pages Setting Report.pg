@@ -1,0 +1,3 @@
+Report Width:text.condition"No"
+Report Height:text.condition"No"
+Page Size Unit:combo[mm,inch].condition"No"

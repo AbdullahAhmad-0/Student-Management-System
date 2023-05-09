@@ -1,0 +1,6 @@
+Database:sqlite.combo[sqlite,mysql].condition"No"
+Host:None.text.condition"if Database==mysql,Host==show"
+User Name:None.text.condition"if Database==mysql,User Name==show"
+Password:None.text.condition"if Database==mysql,Password==show"
+MySql Database Name:File+3.text.condition"if Database==mysql,MySql Database Name==show"
+Test Database:button.button[Test+testdb()|].condition"No"
