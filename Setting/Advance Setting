@@ -1,0 +1,4 @@
+Remove Temp File After Close:True.combo[True,False].condition"No"
+Sqlite Database Backup:True.combo[True,False].condition"No"
+Sqlite Database Backup Every:Saturday.combo[Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday].condition"No"
+Sqlite Database Location:File+2.aofiT.condition"No"

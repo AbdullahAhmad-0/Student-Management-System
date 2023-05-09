@@ -1,0 +1,4 @@
+Column Per Page:2.no.condition"No"
+Row Per Page:4.no.condition"No"
+Output In:PDF.combo[PDF,PNG,JPG].condition"No"
+Camera (URL and No Allow):File+4.text.condition"No"
