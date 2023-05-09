@@ -1,0 +1,352 @@
+Log File Created [2023-04-02 16:37:23]
+Log File Ended [2023-04-02 16:37:28]
+
+Log File Started [2023-04-02 16:37:39]
+[2023-04-02 16:37:40] [Student Form] [Database] Connected with sqlite
+[2023-04-02 16:37:41] [Student Form] [Database] Enabled
+[2023-04-02 16:37:41] [Student Form] [Fetch] Record Successfully
+[2023-04-02 16:37:41] [Student Form] [ID Refresh] Successfully
+[2023-04-02 16:37:41] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:37:41] [Student Form] [Fetch] Record Successfully
+[2023-04-02 16:37:41] [Student Form] [ID Refresh] Successfully
+[2023-04-02 16:37:41] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:37:41] [Student Form] [ID Refresh] Successfully
+[2023-04-02 16:37:41] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:37:41] [Open Form] StudentForm_frm
+[2023-04-02 16:38:09] [Student Form] [Fetch] Record Successfully
+[2023-04-02 16:38:09] [Student Form] [ID Refresh] Successfully
+[2023-04-02 16:38:09] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:38:09] [Student Form] [Add Record] Record With ID 1001 Added Successfully
+Log File Ended [2023-04-02 16:38:22]
+
+[2023-04-02 16:38:57] [Classes] [Database] Connected with sqlite
+[2023-04-02 16:38:57] [Classes] [Database] Enabled
+[2023-04-02 16:38:57] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:38:57] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:38:57] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:38:57] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:38:57] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:38:57] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:38:57] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:38:57] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-04-02 16:38:59]
+
+[2023-04-02 16:47:44] [Classes] [Database] Connected with sqlite
+[2023-04-02 16:47:44] [Classes] [Database] Enabled
+[2023-04-02 16:47:44] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:47:44] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:47:44] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:47:44] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:47:44] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:47:44] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:47:44] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:47:44] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:48:15] [Classes] [Add Error] Record With ID 1001 Add Failed: table Classes has 5 columns but 4 values were supplied
+[2023-04-02 16:48:31] [Classes] [Database] Connected with sqlite
+[2023-04-02 16:48:32] [Classes] [Database] Enabled
+[2023-04-02 16:48:32] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:48:32] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:48:32] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:48:39] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:48:39] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:48:39] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:48:39] [Classes] [Add Record] Record With ID 1001 Added Successfully
+[2023-04-02 16:48:40] [Classes] [Get Data] Record 1001 Selected Successfully
+[2023-04-02 16:48:45] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:48:45] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:48:54] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:48:54] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:48:54] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:48:54] [Classes] [Add Record] Record With ID 1002 Added Successfully
+[2023-04-02 16:48:56] [Classes] [Get Data] Record 1001 Selected Successfully
+[2023-04-02 16:49:03] [Classes] [Add Error] This ID is Already Assigned, Try New One
+[2023-04-02 16:49:05] [Classes] [Add Record] Record With ID 1001 Added Successfully
+[2023-04-02 16:49:07] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:49:07] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:49:07] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:49:07] [Classes] [Update Record] Record With ID 1001 Updated Successfully
+[2023-04-02 16:51:09] [Classes] [Import Successful] 4 Records Found And Imported To Database Successfully
+[2023-04-02 16:51:09] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:51:24] [Classes] [Import Successful] 4 Records Found And Imported To Database Successfully
+[2023-04-02 16:51:24] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:51:30] [Classes] [Get Data] Record 1010 Selected Successfully
+[2023-04-02 16:51:31] [Classes] [Get Data] Record 1003 Selected Successfully
+[2023-04-02 16:51:32] [Classes] [Get Data] Record 1002 Selected Successfully
+[2023-04-02 16:51:32] [Classes] [Get Data] Record 1002 Selected Successfully
+[2023-04-02 16:51:34] [Classes] [Get Data] Record 1003 Selected Successfully
+[2023-04-02 16:51:34] [Classes] [Get Data] Record 1006 Selected Successfully
+[2023-04-02 16:51:34] [Classes] [Get Data] Record 1008 Selected Successfully
+[2023-04-02 16:51:34] [Classes] [Get Data] Record 1010 Selected Successfully
+[2023-04-02 16:51:35] [Classes] [Get Data] Record 1001 Selected Successfully
+[2023-04-02 16:51:36] [Classes] [Get Data] Record 1002 Selected Successfully
+[2023-04-02 16:51:37] [Classes] [Get Data] Record 1003 Selected Successfully
+[2023-04-02 16:51:37] [Classes] [Get Data] Record 1006 Selected Successfully
+[2023-04-02 16:51:37] [Classes] [Get Data] Record 1009 Selected Successfully
+[2023-04-02 16:51:39] [Classes] [Get Data] Record 1009 Selected Successfully
+[2023-04-02 16:51:44] [Classes] [Get Data] Record 1002 Selected Successfully
+[2023-04-02 16:51:49] [Classes] [Get Data] Record 1007 Selected Successfully
+[2023-04-02 16:51:51] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:51:51] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:51:51] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:51:51] [Classes] [Delete Record] Record With ID 1011 Deleted Successfully
+[2023-04-02 16:51:52] [Classes] [Get Data] Record 1008 Selected Successfully
+[2023-04-02 16:51:53] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:51:53] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:51:53] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:51:53] [Classes] [Delete Record] Record With ID 1011 Deleted Successfully
+[2023-04-02 16:51:54] [Classes] [Get Data] Record 1009 Selected Successfully
+[2023-04-02 16:51:55] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:51:55] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:51:55] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:51:55] [Classes] [Delete Record] Record With ID 1011 Deleted Successfully
+[2023-04-02 16:51:56] [Classes] [Get Data] Record 1010 Selected Successfully
+[2023-04-02 16:51:58] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:51:58] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:51:58] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:51:58] [Classes] [Delete Record] Record With ID 1007 Deleted Successfully
+[2023-04-02 16:52:19] [Classes] [Search] No Record Found
+[2023-04-02 16:52:20] [Classes] [Search] 6 Record Found
+[2023-04-02 16:52:21] [Classes] [Search] 6 Record Found
+[2023-04-02 16:52:22] [Classes] [Search] 6 Record Found
+[2023-04-02 16:52:22] [Classes] [Search] 1 Record Found
+[2023-04-02 16:52:23] [Classes] [Search] 6 Record Found
+[2023-04-02 16:52:23] [Classes] [Search] 1 Record Found
+[2023-04-02 16:52:23] [Classes] [Search] 6 Record Found
+[2023-04-02 16:52:24] [Classes] [Search] 1 Record Found
+[2023-04-02 16:52:24] [Classes] [Search] 6 Record Found
+[2023-04-02 16:52:24] [Classes] [Search] 1 Record Found
+[2023-04-02 16:52:24] [Classes] [Search] 6 Record Found
+[2023-04-02 16:52:25] [Classes] [Search] 1 Record Found
+[2023-04-02 16:52:26] [Classes] [Search] 6 Record Found
+[2023-04-02 16:52:28] [Classes] [Search] 6 Record Found
+[2023-04-02 16:52:29] [Classes] [Search] 3 Record Found
+[2023-04-02 16:52:30] [Classes] [Get Data] Error: string index out of range
+Log File Ended [2023-04-02 16:52:35]
+
+[2023-04-02 16:52:59] [Classes] [Database] Connected with sqlite
+[2023-04-02 16:52:59] [Classes] [Database] Enabled
+[2023-04-02 16:52:59] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:53:00] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:53:00] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:53:00] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:53:00] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:53:00] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:53:00] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:53:00] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-04-02 16:53:18]
+
+[2023-04-02 16:53:35] [Classes] [Database] Connected with sqlite
+[2023-04-02 16:53:35] [Classes] [Database] Enabled
+[2023-04-02 16:53:35] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:53:36] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:53:36] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:53:36] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:53:36] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:53:36] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:53:36] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:53:36] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-04-02 16:53:38]
+
+[2023-04-02 16:53:50] [Classes] [Database] Connected with sqlite
+[2023-04-02 16:53:50] [Classes] [Database] Enabled
+[2023-04-02 16:53:50] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:53:50] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:53:50] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:53:50] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:53:50] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:53:50] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:53:50] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:53:50] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-04-02 16:53:55]
+
+[2023-04-02 16:54:02] [Classes] [Database] Connected with sqlite
+[2023-04-02 16:54:02] [Classes] [Database] Enabled
+[2023-04-02 16:54:02] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:54:02] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:54:02] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:54:02] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:54:02] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:54:02] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:54:02] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:54:02] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:54:05] [Classes] [Get Data] Record 1001 Selected Successfully
+[2023-04-02 16:54:05] [Classes] [Get Data] Record 1002 Selected Successfully
+Log File Ended [2023-04-02 16:54:07]
+
+[2023-04-02 16:54:14] [Setting] [After Refresh]	[Root Width] 1366, [Root Height] 768
+Log File Ended [2023-04-02 16:54:29]
+
+[2023-04-02 16:54:34] [Classes] [Database] Connected with sqlite
+[2023-04-02 16:54:34] [Classes] [Database] Enabled
+[2023-04-02 16:54:34] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:54:35] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:54:35] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:54:35] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:54:35] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:54:35] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:54:35] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:54:35] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:54:35] [Classes] [Get Data] Record 1001 Selected Successfully
+[2023-04-02 16:54:36] [Classes] [Get Data] Record 1004 Selected Successfully
+[2023-04-02 16:54:36] [Classes] [Get Data] Record 1003 Selected Successfully
+[2023-04-02 16:54:37] [Classes] [Get Data] Record 1004 Selected Successfully
+[2023-04-02 16:54:37] [Classes] [Get Data] Record 1006 Selected Successfully
+[2023-04-02 16:54:37] [Classes] [Get Data] Record 1002 Selected Successfully
+[2023-04-02 16:54:38] [Classes] [Get Data] Record 1003 Selected Successfully
+[2023-04-02 16:54:38] [Classes] [Get Data] Record 1005 Selected Successfully
+[2023-04-02 16:54:39] [Classes] [Get Data] Record 1006 Selected Successfully
+Log File Ended [2023-04-02 16:54:40]
+
+[2023-04-02 16:55:28] [Classes] [Database] Connected with sqlite
+[2023-04-02 16:55:28] [Classes] [Database] Enabled
+[2023-04-02 16:55:28] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:55:28] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:55:28] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:55:28] [Classes] [Fetch] Record Successfully
+[2023-04-02 16:55:28] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:55:28] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:55:29] [Classes] [ID Refresh] Successfully
+[2023-04-02 16:55:29] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:55:29] [Classes] [Get Data] Record 1002 Selected Successfully
+[2023-04-02 16:55:30] [Classes] [Get Data] Record 1001 Selected Successfully
+[2023-04-02 16:55:30] [Classes] [Get Data] Record 1005 Selected Successfully
+[2023-04-02 16:55:31] [Classes] [Get Data] Record 1006 Selected Successfully
+[2023-04-02 16:55:32] [Classes] [Get Data] Record 1005 Selected Successfully
+[2023-04-02 16:55:32] [Classes] [Get Data] Record 1004 Selected Successfully
+Log File Ended [2023-04-02 16:55:41]
+
+[2023-04-02 16:59:56] [Student Form] [Database] Connected with sqlite
+[2023-04-02 16:59:56] [Student Form] [Database] Enabled
+[2023-04-02 16:59:56] [Student Form] [Fetch] Record Successfully
+[2023-04-02 16:59:56] [Student Form] [ID Refresh] Successfully
+[2023-04-02 16:59:56] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 16:59:56] [Student Form] [Fetch] Record Successfully
+[2023-04-02 16:59:56] [Student Form] [ID Refresh] Successfully
+[2023-04-02 16:59:56] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 16:59:56] [Student Form] [ID Refresh] Successfully
+[2023-04-02 16:59:56] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 17:00:09] [Student Form] [Get Data] Record 1001 Selected Successfully
+[2023-04-02 17:00:16] [Student Form] [Fetch] Record Successfully
+[2023-04-02 17:00:16] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:00:16] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 17:00:16] [Student Form] [Update Record] Record With ID 1001 Updated Successfully
+[2023-04-02 17:00:18] [Student Form] [Get Data] Error: string index out of range
+[2023-04-02 17:00:19] [Student Form] [Get Data] Record 1001 Selected Successfully
+Log File Ended [2023-04-02 17:00:31]
+
+[2023-04-02 17:18:56] [Classes] [Database] Connected with sqlite
+[2023-04-02 17:18:56] [Classes] [Database] Enabled
+[2023-04-02 17:18:56] [Classes] [Fetch] Record Successfully
+[2023-04-02 17:18:56] [Classes] [ID Refresh] Successfully
+[2023-04-02 17:18:56] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 17:18:56] [Classes] [Fetch] Record Successfully
+[2023-04-02 17:18:56] [Classes] [ID Refresh] Successfully
+[2023-04-02 17:18:56] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 17:18:56] [Classes] [ID Refresh] Successfully
+[2023-04-02 17:18:56] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 17:18:57] [Classes] [Get Data] Record 1006 Selected Successfully
+[2023-04-02 17:18:58] [Classes] [Get Data] Record 1002 Selected Successfully
+[2023-04-02 17:18:58] [Classes] [Get Data] Record 1002 Selected Successfully
+[2023-04-02 17:18:58] [Classes] [Get Data] Record 1004 Selected Successfully
+[2023-04-02 17:18:58] [Classes] [Get Data] Record 1003 Selected Successfully
+[2023-04-02 17:18:59] [Classes] [Get Data] Record 1003 Selected Successfully
+[2023-04-02 17:18:59] [Classes] [Get Data] Record 1001 Selected Successfully
+[2023-04-02 17:18:59] [Classes] [Get Data] Record 1001 Selected Successfully
+[2023-04-02 17:19:00] [Classes] [Get Data] Record 1004 Selected Successfully
+[2023-04-02 17:19:00] [Classes] [Get Data] Record 1005 Selected Successfully
+[2023-04-02 17:19:00] [Classes] [Get Data] Record 1006 Selected Successfully
+[2023-04-02 17:19:01] [Classes] [Get Data] Record 1003 Selected Successfully
+[2023-04-02 17:19:01] [Classes] [Get Data] Record 1004 Selected Successfully
+[2023-04-02 17:19:01] [Classes] [Get Data] Record 1001 Selected Successfully
+[2023-04-02 17:19:02] [Classes] [Get Data] Record 1004 Selected Successfully
+[2023-04-02 17:19:02] [Classes] [Get Data] Record 1005 Selected Successfully
+[2023-04-02 17:19:02] [Classes] [Get Data] Record 1006 Selected Successfully
+[2023-04-02 17:19:03] [Classes] [Get Data] Record 1003 Selected Successfully
+[2023-04-02 17:19:03] [Classes] [Get Data] Record 1004 Selected Successfully
+[2023-04-02 17:19:03] [Classes] [Get Data] Record 1006 Selected Successfully
+[2023-04-02 17:19:04] [Classes] [Get Data] Record 1004 Selected Successfully
+[2023-04-02 17:19:04] [Classes] [Get Data] Record 1005 Selected Successfully
+[2023-04-02 17:19:04] [Classes] [Get Data] Record 1001 Selected Successfully
+Log File Ended [2023-04-02 17:19:06]
+
+[2023-04-02 17:27:14] [Attendance Details] [Database] Connected with sqlite
+[2023-04-02 17:27:14] [Attendance Details] [Database] Enabled
+[2023-04-02 17:27:14] [Attendance Details] [Fetch] Record Successfully
+[2023-04-02 17:27:15] [Attendance Details] [ID Refresh] Successfully
+[2023-04-02 17:27:15] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 17:27:15] [Attendance Details] [Fetch] Record Successfully
+[2023-04-02 17:27:15] [Attendance Details] [ID Refresh] Successfully
+[2023-04-02 17:27:15] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 17:27:15] [Attendance Details] [ID Refresh] Successfully
+[2023-04-02 17:27:15] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-04-02 17:27:18]
+
+[2023-04-02 17:29:48] [Student Form] [Database] Connected with sqlite
+[2023-04-02 17:29:48] [Student Form] [Database] Enabled
+[2023-04-02 17:29:48] [Student Form] [Fetch] Record Successfully
+[2023-04-02 17:29:48] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:29:48] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 17:29:48] [Student Form] [Fetch] Record Successfully
+[2023-04-02 17:29:48] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:29:48] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 17:29:48] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:29:48] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 17:29:57] [Student Form] [Database] Connected with sqlite
+[2023-04-02 17:29:57] [Student Form] [Database] Enabled
+[2023-04-02 17:29:57] [Student Form] [Fetch] Record Successfully
+[2023-04-02 17:29:57] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:29:57] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+Log File Ended [2023-04-02 17:31:12]
+
+[2023-04-02 17:36:17] [Student Form] [Database] Connected with sqlite
+[2023-04-02 17:36:17] [Student Form] [Database] Enabled
+[2023-04-02 17:36:17] [Student Form] [Fetch] Record Successfully
+[2023-04-02 17:36:17] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:36:17] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 17:36:17] [Student Form] [Fetch] Record Successfully
+[2023-04-02 17:36:17] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:36:17] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 17:36:18] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:36:18] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-04-02 17:36:21]
+
+[2023-04-02 17:36:31] [Student Form] [Database] Connected with sqlite
+[2023-04-02 17:36:31] [Student Form] [Database] Enabled
+[2023-04-02 17:36:31] [Student Form] [Fetch] Record Successfully
+[2023-04-02 17:36:31] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:36:31] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 17:36:31] [Student Form] [Fetch] Record Successfully
+[2023-04-02 17:36:31] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:36:31] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 17:36:31] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:36:31] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-04-02 17:36:39]
+
+[2023-04-02 17:36:48] [Student Form] [Database] Connected with sqlite
+[2023-04-02 17:36:48] [Student Form] [Database] Enabled
+[2023-04-02 17:36:48] [Student Form] [Fetch] Record Successfully
+[2023-04-02 17:36:49] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:36:49] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 17:36:49] [Student Form] [Fetch] Record Successfully
+[2023-04-02 17:36:49] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:36:49] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 17:36:49] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:36:49] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-04-02 17:36:52]
+
+[2023-04-02 17:37:07] [Student Form] [Database] Connected with sqlite
+[2023-04-02 17:37:07] [Student Form] [Database] Enabled
+[2023-04-02 17:37:07] [Student Form] [Fetch] Record Successfully
+[2023-04-02 17:37:07] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:37:07] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 17:37:07] [Student Form] [Fetch] Record Successfully
+[2023-04-02 17:37:07] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:37:07] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 17:37:07] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:37:07] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-02 17:38:03] [Student Form] [Fetch] Record Successfully
+[2023-04-02 17:38:03] [Student Form] [ID Refresh] Successfully
+[2023-04-02 17:38:03] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-02 17:38:03] [Student Form] [Add Record] Record With ID 1001 Added Successfully
+Log File Ended [2023-04-02 17:38:11]
+

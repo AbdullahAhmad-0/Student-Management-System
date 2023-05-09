@@ -1,13 +1,11 @@
 # Default ignored files
 /.idea/
-/Database/
 /venv/
 __pycache__/
 /build/
 /dist/
 /NOT NEED/
 /Backup/
-Temp/
 /Forms_/
 test*.py
 Form Creator/

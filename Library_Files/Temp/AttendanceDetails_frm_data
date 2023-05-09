@@ -1,0 +1,8 @@
+Date,date_,date,1,100,1
+Time,time_,text,2,100,1
+Status,status_,combo,3,100,1
+Student Roll Number,sroll_,combo,4,100,1
+Student Name,student_,dText,5,100,1
+Technology,technology_,dText,6,100,1
+Class,class_,dText,6,100,1
+Shift,shift_,dText,7,100,1

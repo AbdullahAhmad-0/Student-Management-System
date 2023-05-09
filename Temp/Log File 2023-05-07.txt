@@ -1,0 +1,2612 @@
+Log File Created [2023-05-07 11:17:29]
+[2023-05-07 11:17:52] [Classes] [Database] Connected with sqlite
+[2023-05-07 11:17:52] [Classes] [Database] Enabled
+[2023-05-07 11:17:52] [Classes] [Fetch] Record Successfully
+[2023-05-07 11:17:53] [Classes] [ID Refresh] Successfully
+[2023-05-07 11:17:53] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 11:17:53] [Classes] [Fetch] Record Successfully
+[2023-05-07 11:17:53] [Classes] [ID Refresh] Successfully
+[2023-05-07 11:17:53] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 11:17:53] [Classes] [ID Refresh] Successfully
+[2023-05-07 11:17:53] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 11:17:53] [Open Form] Classes_frm
+[2023-05-07 11:18:00] [Student Form] [Database] Connected with sqlite
+[2023-05-07 11:18:00] [Student Form] [Database] Enabled
+[2023-05-07 11:18:01] [Student Form] [Fetch] Record Successfully
+[2023-05-07 11:18:01] [Student Form] [ID Refresh] Successfully
+[2023-05-07 11:18:01] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 11:18:01] [Student Form] [Fetch] Record Successfully
+[2023-05-07 11:18:01] [Student Form] [ID Refresh] Successfully
+[2023-05-07 11:18:01] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 11:18:01] [Student Form] [ID Refresh] Successfully
+[2023-05-07 11:18:01] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 11:18:01] [Open Form] StudentForm_frm
+[2023-05-07 11:18:16] [Student Form] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 11:18:18] [Student Form] [Fetch] Record Successfully
+[2023-05-07 11:18:18] [Student Form] [ID Refresh] Successfully
+[2023-05-07 11:18:18] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 11:18:26] [Open Form] Contact_frm
+[2023-05-07 11:18:31] [Open Form] About_frm
+[2023-05-07 11:18:34] [Setting] [After Refresh]	[Root Width] 1366, [Root Height] 768
+[2023-05-07 11:18:34] [Open Form] Setting_frm
+Log File Ended [2023-05-07 11:18:39]
+
+Log File Started [2023-05-07 11:55:50]
+Log File Ended [2023-05-07 11:55:58]
+
+[2023-05-07 12:07:52] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 12:07:52] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 12:07:53] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:07:55] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:07:55] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 12:07:55] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:07:56] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:07:56] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 12:07:56] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:07:56] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 12:08:39]
+
+[2023-05-07 12:21:44] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 12:21:44] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 12:22:20] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 12:22:20] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 12:22:38] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 12:22:38] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 12:22:38] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:22:41] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:22:41] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 12:22:41] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:22:42] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:22:42] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 12:22:42] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:22:42] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 12:23:49] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 12:23:49] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 12:23:49] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:23:51] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:23:51] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 12:23:51] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:23:52] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:23:52] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 12:23:52] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:23:52] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 12:24:23]
+
+[2023-05-07 12:38:56] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 12:38:56] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 12:38:56] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:38:59] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:38:59] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 12:38:59] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:39:00] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:39:00] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 12:39:00] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:39:00] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 12:39:17]
+
+[2023-05-07 12:41:15] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 12:41:15] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 12:41:15] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:41:18] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:41:18] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 12:41:18] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:41:20] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:41:20] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 12:41:20] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:41:20] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 12:42:36]
+
+[2023-05-07 12:42:40] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 12:42:40] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 12:42:40] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:42:42] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:42:42] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 12:42:42] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:42:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:42:44] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 12:42:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:42:44] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 12:43:40]
+
+[2023-05-07 12:51:16] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 12:51:16] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 12:51:16] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:51:18] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:51:18] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 12:51:18] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:51:19] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:51:19] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 12:51:19] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:51:19] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 12:51:31]
+
+[2023-05-07 12:52:11] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 12:52:11] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 12:52:11] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:52:13] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:52:13] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 12:52:13] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:52:14] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:52:14] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 12:52:14] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:52:14] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 12:52:31]
+
+[2023-05-07 12:53:08] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 12:53:08] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 12:53:08] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:53:10] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:53:10] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 12:53:10] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:53:11] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:53:11] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 12:53:11] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:53:11] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 12:53:14]
+
+[2023-05-07 12:53:34] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 12:53:34] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 12:53:34] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:53:36] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:53:36] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 12:53:36] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 12:53:36] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:53:36] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 12:53:36] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 12:53:36] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 12:53:42]
+
+[2023-05-07 13:02:56] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:02:56] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 13:02:56] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 13:02:58] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:02:58] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:02:58] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 13:02:58] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:02:58] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 13:02:58] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:02:58] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 13:03:23]
+
+[2023-05-07 13:09:38] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:09:38] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 13:09:38] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 13:09:40] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:09:40] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:09:40] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 13:09:40] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:09:40] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 13:09:40] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:09:40] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 13:09:50]
+
+[2023-05-07 13:11:18] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:11:18] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 13:12:09] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:12:09] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 13:12:26] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:12:26] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 13:12:26] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 13:12:28] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:12:28] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:12:28] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 13:12:29] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:12:29] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 13:12:29] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:12:29] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 13:12:33]
+
+[2023-05-07 13:12:44] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:12:44] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 13:12:44] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 13:12:49] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:12:49] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:12:49] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 13:12:50] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:12:50] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 13:12:50] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:12:50] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 13:13:06]
+
+[2023-05-07 13:15:16] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:15:16] [Card Generator] [Database Error] duplicate column name: sroll_
+[2023-05-07 13:15:16] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 13:15:18] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:15:18] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:15:18] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 13:15:19] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:15:19] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 13:15:19] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:15:19] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:15:25] [Card Generator] [Get Data] Error: string index out of range
+Log File Ended [2023-05-07 13:15:28]
+
+[2023-05-07 13:18:01] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:18:01] [Card Generator] [Database] Enabled
+[2023-05-07 13:18:02] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:18:02] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:18:02] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:18:02] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 13:18:02] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:18:02] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 13:18:06]
+
+[2023-05-07 13:18:31] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:18:31] [Card Generator] [Database] Enabled
+[2023-05-07 13:18:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:18:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:18:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:18:31] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 13:18:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:18:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 13:18:43]
+
+[2023-05-07 13:20:53] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:20:53] [Card Generator] [Database] Enabled
+[2023-05-07 13:20:53] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:20:53] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:20:53] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:20:53] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 13:20:53] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:20:53] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 13:20:55]
+
+[2023-05-07 13:21:40] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:21:40] [Card Generator] [Database] Enabled
+[2023-05-07 13:21:40] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:21:40] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:21:40] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:21:40] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 13:21:40] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:21:40] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:22:03] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:22:03] [Card Generator] [After Refresh]	[Root Width] 800, [Root Height] 550
+[2023-05-07 13:22:04] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:22:04] [Card Generator] [After Refresh]	[Root Width] 800, [Root Height] 550
+[2023-05-07 13:22:04] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:22:04] [Card Generator] [After Refresh]	[Root Width] 800, [Root Height] 550
+[2023-05-07 13:22:04] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:22:04] [Card Generator] [After Refresh]	[Root Width] 800, [Root Height] 550
+[2023-05-07 13:22:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:22:08] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 695
+Log File Ended [2023-05-07 13:22:09]
+
+Log File Started [2023-05-07 13:23:25]
+Log File Started [2023-05-07 13:23:28]
+Log File Ended [2023-05-07 13:23:30]
+
+Log File Ended [2023-05-07 13:23:33]
+
+Log File Started [2023-05-07 13:23:38]
+[2023-05-07 13:23:41] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:23:41] [Card Generator] [Database] Enabled
+[2023-05-07 13:23:41] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:23:41] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:23:41] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:23:41] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 13:23:41] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:23:41] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:23:41] [Open Form] CardGenerator_frm
+[2023-05-07 13:23:54] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:23:54] [Card Generator] [After Refresh]	[Root Width] 800, [Root Height] 550
+[2023-05-07 13:23:56] [Classes] [Database] Connected with sqlite
+[2023-05-07 13:23:56] [Classes] [Database] Enabled
+[2023-05-07 13:23:56] [Classes] [Fetch] Record Successfully
+[2023-05-07 13:23:56] [Classes] [ID Refresh] Successfully
+[2023-05-07 13:23:56] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:23:56] [Classes] [Fetch] Record Successfully
+[2023-05-07 13:23:56] [Classes] [ID Refresh] Successfully
+[2023-05-07 13:23:56] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 13:23:56] [Classes] [ID Refresh] Successfully
+[2023-05-07 13:23:56] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:23:56] [Open Form] Classes_frm
+Log File Ended [2023-05-07 13:24:15]
+
+[2023-05-07 13:25:21] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:25:21] [Card Generator] [Database] Enabled
+[2023-05-07 13:25:21] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:25:21] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:25:21] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:25:21] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 13:25:21] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:25:21] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 13:27:21]
+
+[2023-05-07 13:31:43] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:31:43] [Card Generator] [Database] Enabled
+[2023-05-07 13:31:43] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:31:43] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:31:43] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:31:43] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 13:31:43] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:31:43] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 13:32:02]
+
+[2023-05-07 13:34:29] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 13:34:29] [Card Generator] [Database] Enabled
+[2023-05-07 13:34:32] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:34:32] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 13:34:32] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:34:32] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 13:34:32] [Card Generator] [Get Data] Error: string index out of range
+[2023-05-07 13:34:32] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 13:34:32] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 13:34:32]
+
+[2023-05-07 14:04:18] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 14:04:18] [Card Generator] [Database] Enabled
+[2023-05-07 14:04:20] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 14:04:20] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 14:04:20] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 14:04:20] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 14:04:20] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 14:04:20] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 14:04:21]
+
+[2023-05-07 14:05:09] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 14:05:09] [Card Generator] [Database] Enabled
+[2023-05-07 14:05:09] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 14:05:09] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 14:05:09] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 14:05:09] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 14:05:09] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 14:05:09] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 14:05:22]
+
+Log File Started [2023-05-07 14:05:50]
+[2023-05-07 14:05:55] [Student Form] [Database] Connected with sqlite
+[2023-05-07 14:05:55] [Student Form] [Database] Enabled
+[2023-05-07 14:05:55] [Student Form] [Fetch] Record Successfully
+[2023-05-07 14:05:55] [Student Form] [ID Refresh] Successfully
+[2023-05-07 14:05:55] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 14:05:55] [Student Form] [Fetch] Record Successfully
+[2023-05-07 14:05:55] [Student Form] [ID Refresh] Successfully
+[2023-05-07 14:05:55] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 14:05:55] [Student Form] [ID Refresh] Successfully
+[2023-05-07 14:05:55] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 14:05:55] [Open Form] StudentForm_frm
+[2023-05-07 14:06:04] [Student Form] [Get Data] Record 1001 Selected Successfully
+Log File Ended [2023-05-07 14:06:17]
+
+[2023-05-07 14:21:36] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 14:21:36] [Card Generator] [Database] Enabled
+[2023-05-07 14:21:37] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 14:21:37] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 14:21:37] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 14:21:37] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 14:21:37] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 14:21:37] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 14:21:39]
+
+Log File Started [2023-05-07 14:59:31]
+[2023-05-07 14:59:49] [Classes] [Database] Connected with sqlite
+[2023-05-07 14:59:49] [Classes] [Database] Enabled
+[2023-05-07 14:59:50] [Classes] [Fetch] Record Successfully
+[2023-05-07 14:59:50] [Classes] [ID Refresh] Successfully
+[2023-05-07 14:59:50] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 14:59:50] [Classes] [Fetch] Record Successfully
+[2023-05-07 14:59:50] [Classes] [ID Refresh] Successfully
+[2023-05-07 14:59:50] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 14:59:50] [Classes] [ID Refresh] Successfully
+[2023-05-07 14:59:50] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 14:59:50] [Open Form] Classes_frm
+[2023-05-07 15:00:19] [Classes] [Database] Connected with sqlite
+[2023-05-07 15:00:19] [Classes] [Database] Enabled
+[2023-05-07 15:00:19] [Classes] [Fetch] Record Successfully
+[2023-05-07 15:00:19] [Classes] [ID Refresh] Successfully
+[2023-05-07 15:00:19] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 15:00:19] [Classes] [Fetch] Record Successfully
+[2023-05-07 15:00:19] [Classes] [ID Refresh] Successfully
+[2023-05-07 15:00:19] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 15:00:19] [Classes] [ID Refresh] Successfully
+[2023-05-07 15:00:19] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 15:00:19] [Open Form] Classes_frm
+[2023-05-07 15:05:00] [Classes] [Get Data] Record 1004 Selected Successfully
+[2023-05-07 15:05:00] [Classes] [Get Data] Record 1006 Selected Successfully
+[2023-05-07 15:05:02] [Classes] [Get Data] Record 1004 Selected Successfully
+[2023-05-07 15:05:02] [Classes] [Get Data] Record 1005 Selected Successfully
+[2023-05-07 15:05:03] [Classes] [Get Data] Record 1006 Selected Successfully
+[2023-05-07 15:05:03] [Classes] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 15:05:04] [Classes] [Get Data] Record 1002 Selected Successfully
+[2023-05-07 15:05:05] [Classes] [Get Data] Record 1006 Selected Successfully
+[2023-05-07 15:05:05] [Classes] [Get Data] Record 1004 Selected Successfully
+[2023-05-07 15:05:06] [Classes] [Get Data] Record 1003 Selected Successfully
+[2023-05-07 15:05:06] [Classes] [Get Data] Record 1005 Selected Successfully
+[2023-05-07 15:05:07] [Classes] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 15:05:08] [Classes] [Get Data] Record 1002 Selected Successfully
+[2023-05-07 15:05:09] [Classes] [Get Data] Record 1006 Selected Successfully
+[2023-05-07 15:05:09] [Classes] [Get Data] Record 1004 Selected Successfully
+[2023-05-07 15:05:10] [Classes] [Get Data] Record 1003 Selected Successfully
+[2023-05-07 15:05:10] [Classes] [Get Data] Record 1005 Selected Successfully
+[2023-05-07 15:05:11] [Classes] [Get Data] Record 1006 Selected Successfully
+[2023-05-07 15:05:12] [Classes] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 15:06:17] [Attendance Details] [Database] Connected with sqlite
+[2023-05-07 15:06:17] [Attendance Details] [Database] Enabled
+[2023-05-07 15:06:17] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 15:06:18] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 15:06:18] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 15:06:18] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 15:06:18] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 15:06:18] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 15:06:18] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 15:06:18] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 15:06:18] [Open Form] AttendanceDetails_frm
+Log File Ended [2023-05-07 15:10:22]
+
+Log File Started [2023-05-07 15:23:06]
+[2023-05-07 15:23:10] [Student Form] [Database] Connected with sqlite
+[2023-05-07 15:23:10] [Student Form] [Database] Enabled
+[2023-05-07 15:23:10] [Student Form] [Fetch] Record Successfully
+[2023-05-07 15:23:10] [Student Form] [ID Refresh] Successfully
+[2023-05-07 15:23:10] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 15:23:10] [Student Form] [Fetch] Record Successfully
+[2023-05-07 15:23:10] [Student Form] [ID Refresh] Successfully
+[2023-05-07 15:23:10] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 15:23:10] [Student Form] [ID Refresh] Successfully
+[2023-05-07 15:23:10] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 15:23:10] [Open Form] StudentForm_frm
+[2023-05-07 15:29:29] [Fees Management] [Database] Connected with sqlite
+[2023-05-07 15:29:29] [Fees Management] [Database] Enabled
+[2023-05-07 15:29:29] [Fees Management] [Fetch] Record Successfully
+[2023-05-07 15:29:29] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 15:29:29] [Fees Management] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 15:29:29] [Fees Management] [Fetch] Record Successfully
+[2023-05-07 15:29:29] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 15:29:29] [Fees Management] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 15:29:29] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 15:29:29] [Fees Management] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 15:29:29] [Open Form] FeesManagement_frm
+[2023-05-07 15:34:43] [Open Form] About_frm
+[2023-05-07 15:34:47] [Open Form] LogViewer_frm
+[2023-05-07 15:37:17] [Setting] [After Refresh]	[Root Width] 1366, [Root Height] 768
+[2023-05-07 15:37:18] [Open Form] Setting_frm
+[2023-05-07 15:38:41] [Setting] [After Refresh]	[Root Width] 1366, [Root Height] 768
+[2023-05-07 15:38:41] [Open Form] Setting_frm
+Log File Ended [2023-05-07 15:38:52]
+
+Log File Started [2023-05-07 15:41:53]
+[2023-05-07 15:41:57] [Setting] [After Refresh]	[Root Width] 1366, [Root Height] 768
+[2023-05-07 15:41:57] [Open Form] Setting_frm
+Log File Ended [2023-05-07 15:43:13]
+
+[2023-05-07 16:09:55] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:09:55] [Card Generator] [Database] Enabled
+[2023-05-07 16:10:18] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:10:18] [Card Generator] [Database] Enabled
+[2023-05-07 16:10:19] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:10:19] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:10:19] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:10:19] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:10:19] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:10:19] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:10:31] [Card Generator] [Add Error] Record With ID 1001 Add Failed: no such table: Card_Generator
+Log File Ended [2023-05-07 16:10:36]
+
+[2023-05-07 16:12:01] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:12:01] [Card Generator] [Database] Enabled
+[2023-05-07 16:12:01] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:12:01] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:12:01] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:12:01] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:12:02] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:12:02] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:12:04] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:12:04] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:12:04] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:12:04] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:12:05] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:12:05] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:12:05] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:12:05] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:12:05] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:12:05] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:12:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:12:08] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:12:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:12:08] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:12:09] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:12:09] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:12:09] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:12:09] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:12:15] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:12:15] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:12:23] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:12:23] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+Log File Ended [2023-05-07 16:12:26]
+
+[2023-05-07 16:16:31] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:16:31] [Card Generator] [Database] Enabled
+[2023-05-07 16:16:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:16:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:16:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:16:31] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:16:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:16:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 16:16:54]
+
+[2023-05-07 16:18:29] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:18:29] [Card Generator] [Database] Enabled
+[2023-05-07 16:18:29] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:18:29] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:18:29] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:18:29] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:18:29] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:18:29] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 16:18:31]
+
+[2023-05-07 16:18:47] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:18:47] [Card Generator] [Database] Enabled
+[2023-05-07 16:18:47] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:18:47] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:18:47] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:18:47] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:18:47] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:18:47] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 16:19:05]
+
+[2023-05-07 16:19:34] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:19:34] [Card Generator] [Database] Enabled
+[2023-05-07 16:19:34] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:19:34] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:19:34] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:19:34] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:19:34] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:19:34] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:19:40] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:19:40] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+Log File Ended [2023-05-07 16:19:53]
+
+[2023-05-07 16:20:37] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:20:37] [Card Generator] [Database] Enabled
+[2023-05-07 16:20:37] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:20:37] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:20:37] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:20:37] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:20:37] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:20:37] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 16:20:42]
+
+[2023-05-07 16:21:06] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:21:06] [Card Generator] [Database] Enabled
+[2023-05-07 16:21:06] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:21:06] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:21:06] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:21:06] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:21:06] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:21:06] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 16:21:35]
+
+[2023-05-07 16:24:49] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:24:49] [Card Generator] [Database] Enabled
+[2023-05-07 16:24:50] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:24:50] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:24:50] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:24:50] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:24:50] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:24:50] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:24:51] [Card Generator] [Fetch] We Found Error: no such table: Card_Generator
+[2023-05-07 16:25:00] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:00] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:05] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:05] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:06] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:06] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:06] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:06] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:07] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:07] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:07] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:07] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:07] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:07] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:07] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:07] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:07] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:07] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:07] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:07] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:07] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:07] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:08] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:08] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:08] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:08] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:08] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:25:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:25:08] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+Log File Ended [2023-05-07 16:25:10]
+
+[2023-05-07 16:34:31] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:34:31] [Card Generator] [Database] Enabled
+[2023-05-07 16:34:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:34:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:34:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:34:31] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:34:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:34:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 16:34:57]
+
+[2023-05-07 16:53:41] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:53:41] [Card Generator] [Database] Enabled
+[2023-05-07 16:53:42] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:53:42] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:53:42] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:53:42] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:53:42] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:53:42] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:53:49] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 16:53:53] [Card Generator] [Get Data] Error: string index out of range
+Log File Ended [2023-05-07 16:53:54]
+
+[2023-05-07 16:54:18] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:54:18] [Card Generator] [Database] Enabled
+[2023-05-07 16:54:18] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:54:18] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:54:18] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:54:18] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:54:18] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:54:18] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:54:27] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 16:54:55] [Card Generator] [Get Data] Error: string index out of range
+Log File Ended [2023-05-07 16:54:55]
+
+[2023-05-07 16:54:58] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:54:58] [Card Generator] [Database] Enabled
+[2023-05-07 16:54:58] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:54:58] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:54:58] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:54:58] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:54:58] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:54:58] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:55:01] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 16:55:03]
+
+[2023-05-07 16:55:31] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:55:31] [Card Generator] [Database] Enabled
+[2023-05-07 16:55:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:55:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:55:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:55:31] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:55:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:55:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 16:55:34]
+
+[2023-05-07 16:55:40] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:55:40] [Card Generator] [Database] Enabled
+[2023-05-07 16:55:41] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:55:41] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:55:41] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:55:41] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:55:41] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:55:41] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:55:44] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 16:55:48] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 16:55:51] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 16:55:54] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 16:55:57] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 16:56:00] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 16:56:04] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 16:56:06]
+
+[2023-05-07 16:59:46] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 16:59:46] [Card Generator] [Database] Enabled
+[2023-05-07 16:59:47] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:59:47] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:59:47] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:59:47] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 16:59:47] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 16:59:47] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 16:59:52] [Card Generator] [Fetch] We Found Error: local variable 'q' referenced before assignment
+Log File Ended [2023-05-07 16:59:57]
+
+[2023-05-07 17:00:14] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 17:00:14] [Card Generator] [Database] Enabled
+[2023-05-07 17:00:15] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:00:15] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:00:15] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:00:15] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:00:15] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:00:15] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:00:16] [Card Generator] [Fetch] We Found Error: local variable 'q' referenced before assignment
+Log File Ended [2023-05-07 17:00:21]
+
+[2023-05-07 17:00:42] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 17:00:42] [Card Generator] [Database] Enabled
+[2023-05-07 17:00:43] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:00:43] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:00:43] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:00:43] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:00:43] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:00:43] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:00:44] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 17:00:45] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 17:00:45] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 17:00:45] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 17:00:45] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 17:00:45] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 17:00:46] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 17:00:46] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 17:00:46] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 17:00:51] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:00:51] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:00:53] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:00:53] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:00:54] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:00:54] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:00:57] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:00:57] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:00:58] [Card Generator] [Get Data] Record  Selected Successfully
+[2023-05-07 17:00:59] [Card Generator] [Get Data] Record  Selected Successfully
+Log File Ended [2023-05-07 17:00:59]
+
+[2023-05-07 17:01:56] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 17:01:56] [Card Generator] [Database] Enabled
+[2023-05-07 17:01:57] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:01:57] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:01:57] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:01:57] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:01:57] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:01:57] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:01:59] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 17:01:59] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 17:01:59] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 17:01:59] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 17:02:00] [Card Generator] [Get Data] Error: string index out of range
+[2023-05-07 17:02:01] [Card Generator] [Get Data] Error: string index out of range
+[2023-05-07 17:02:01] [Card Generator] [Get Data] Record TCIT-R2-2020-419 Selected Successfully
+[2023-05-07 17:02:02] [Card Generator] [Get Data] Record TCIT-R2-2020-419 Selected Successfully
+[2023-05-07 17:02:04] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:02:04] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:02:05] [Card Generator] [Get Data] Record TCIT-R2-2020-419 Selected Successfully
+[2023-05-07 17:02:05] [Card Generator] [Get Data] Record TCIT-R2-2020-419 Selected Successfully
+[2023-05-07 17:02:15] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:02:15] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:02:17] [Card Generator] [Get Data] Record TCIT-R2-2020-419 Selected Successfully
+[2023-05-07 17:02:20] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:02:20] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:02:24] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 17:02:26]
+
+[2023-05-07 17:20:52] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 17:20:52] [Card Generator] [Database] Enabled
+[2023-05-07 17:20:53] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:20:53] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:20:53] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:20:53] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:20:53] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:20:53] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 17:21:06]
+
+[2023-05-07 17:34:48] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 17:34:48] [Card Generator] [Database] Enabled
+[2023-05-07 17:34:49] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:34:49] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:34:49] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:34:49] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:34:49] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:34:49] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:34:54] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:34:54] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+Log File Ended [2023-05-07 17:34:58]
+
+[2023-05-07 17:36:05] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 17:36:05] [Card Generator] [Database] Enabled
+[2023-05-07 17:36:06] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:36:06] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:36:06] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:36:06] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:36:06] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:36:06] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:36:10] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:36:10] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+Log File Ended [2023-05-07 17:36:12]
+
+[2023-05-07 17:36:33] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 17:36:33] [Card Generator] [Database] Enabled
+[2023-05-07 17:36:33] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:36:33] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:36:33] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:36:33] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:36:33] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:36:33] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:36:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:36:38] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+Log File Ended [2023-05-07 17:36:39]
+
+[2023-05-07 17:36:51] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 17:36:51] [Card Generator] [Database] Enabled
+[2023-05-07 17:36:51] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:36:51] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:36:51] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:36:51] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:36:52] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:36:52] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:36:58] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 17:36:59]
+
+[2023-05-07 17:37:30] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 17:37:30] [Card Generator] [Database] Enabled
+[2023-05-07 17:37:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:37:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:37:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:37:31] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:37:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:37:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:37:35] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 17:37:38]
+
+[2023-05-07 17:39:13] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 17:39:13] [Card Generator] [Database] Enabled
+[2023-05-07 17:39:13] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:39:13] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:39:13] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:39:13] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:39:13] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:39:13] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:39:18] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 17:39:20]
+
+Log File Started [2023-05-07 17:40:21]
+[2023-05-07 17:40:24] [Student Form] [Database] Connected with sqlite
+[2023-05-07 17:40:24] [Student Form] [Database] Enabled
+[2023-05-07 17:40:24] [Student Form] [Fetch] Record Successfully
+[2023-05-07 17:40:24] [Student Form] [ID Refresh] Successfully
+[2023-05-07 17:40:24] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:40:24] [Student Form] [Fetch] Record Successfully
+[2023-05-07 17:40:24] [Student Form] [ID Refresh] Successfully
+[2023-05-07 17:40:24] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:40:24] [Student Form] [ID Refresh] Successfully
+[2023-05-07 17:40:24] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:40:24] [Open Form] StudentForm_frm
+[2023-05-07 17:40:27] [Student Form] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 17:40:35] [Student Form] [Fetch] Record Successfully
+[2023-05-07 17:40:35] [Student Form] [ID Refresh] Successfully
+[2023-05-07 17:40:35] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:40:35] [Student Form] [Update Record] Record With ID 1001 Updated Successfully
+[2023-05-07 17:40:38] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 17:40:38] [Card Generator] [Database] Enabled
+[2023-05-07 17:40:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:40:38] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:40:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:40:38] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:40:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:40:38] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:40:38] [Open Form] CardGenerator_frm
+[2023-05-07 17:40:41] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 17:40:45]
+
+Log File Started [2023-05-07 17:44:45]
+Log File Ended [2023-05-07 17:44:48]
+
+Log File Started [2023-05-07 17:45:26]
+[2023-05-07 17:45:29] [Student Form] [Database] Connected with sqlite
+[2023-05-07 17:45:29] [Student Form] [Database] Enabled
+[2023-05-07 17:45:29] [Student Form] [Fetch] Record Successfully
+[2023-05-07 17:45:29] [Student Form] [ID Refresh] Successfully
+[2023-05-07 17:45:29] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:45:29] [Student Form] [Fetch] Record Successfully
+[2023-05-07 17:45:29] [Student Form] [ID Refresh] Successfully
+[2023-05-07 17:45:29] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:45:29] [Student Form] [ID Refresh] Successfully
+[2023-05-07 17:45:29] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:45:29] [Open Form] StudentForm_frm
+[2023-05-07 17:45:30] [Student Form] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 17:45:36] [Student Form] [Fetch] Record Successfully
+[2023-05-07 17:45:36] [Student Form] [ID Refresh] Successfully
+[2023-05-07 17:45:36] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:45:36] [Student Form] [Update Record] Record With ID 1001 Updated Successfully
+[2023-05-07 17:45:39] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 17:45:39] [Card Generator] [Database] Enabled
+[2023-05-07 17:45:39] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:45:39] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:45:39] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:45:39] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:45:39] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:45:39] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:45:39] [Open Form] CardGenerator_frm
+[2023-05-07 17:45:43] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 17:45:47]
+
+Log File Started [2023-05-07 17:46:50]
+[2023-05-07 17:46:59] [Student Form] [Database] Connected with sqlite
+[2023-05-07 17:46:59] [Student Form] [Database] Enabled
+[2023-05-07 17:46:59] [Student Form] [Fetch] Record Successfully
+[2023-05-07 17:46:59] [Student Form] [ID Refresh] Successfully
+[2023-05-07 17:46:59] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:46:59] [Student Form] [Fetch] Record Successfully
+[2023-05-07 17:46:59] [Student Form] [ID Refresh] Successfully
+[2023-05-07 17:46:59] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:46:59] [Student Form] [ID Refresh] Successfully
+[2023-05-07 17:46:59] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:46:59] [Open Form] StudentForm_frm
+[2023-05-07 17:47:00] [Student Form] [Get Data] Record 1001 Selected Successfully
+Log File Ended [2023-05-07 17:47:09]
+
+Log File Started [2023-05-07 17:49:25]
+Log File Ended [2023-05-07 17:49:27]
+
+Log File Started [2023-05-07 17:55:12]
+[2023-05-07 17:55:14] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 17:55:14] [Card Generator] [Database] Enabled
+[2023-05-07 17:55:15] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:55:15] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:55:15] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:55:15] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:55:15] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:55:15] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:55:15] [Open Form] CardGenerator_frm
+[2023-05-07 17:56:10] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 17:56:10] [Card Generator] [Database] Enabled
+[2023-05-07 17:56:10] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:56:10] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:56:10] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:56:10] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 17:56:10] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 17:56:10] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 17:56:13] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 17:56:17]
+
+[2023-05-07 18:02:20] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:02:20] [Card Generator] [Database] Enabled
+[2023-05-07 18:02:20] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:02:20] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:02:20] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:02:20] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:02:20] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:02:20] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:02:26] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 18:02:29]
+
+[2023-05-07 18:11:37] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:11:37] [Card Generator] [Database] Enabled
+[2023-05-07 18:11:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:11:38] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:11:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:11:38] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:11:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:11:38] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:11:46] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 18:11:49]
+
+[2023-05-07 18:13:02] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:13:02] [Card Generator] [Database] Enabled
+[2023-05-07 18:13:03] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:13:03] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:13:03] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:13:03] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:13:03] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:13:03] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:13:06] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 18:13:08]
+
+Log File Started [2023-05-07 18:14:05]
+[2023-05-07 18:14:11] [Student Form] [Database] Connected with sqlite
+[2023-05-07 18:14:11] [Student Form] [Database] Enabled
+[2023-05-07 18:14:11] [Student Form] [Fetch] Record Successfully
+[2023-05-07 18:14:11] [Student Form] [ID Refresh] Successfully
+[2023-05-07 18:14:11] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:14:11] [Student Form] [Fetch] Record Successfully
+[2023-05-07 18:14:11] [Student Form] [ID Refresh] Successfully
+[2023-05-07 18:14:11] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:14:11] [Student Form] [ID Refresh] Successfully
+[2023-05-07 18:14:11] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:14:11] [Open Form] StudentForm_frm
+[2023-05-07 18:14:14] [Student Form] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 18:14:19] [Student Form] [Fetch] Record Successfully
+[2023-05-07 18:14:19] [Student Form] [ID Refresh] Successfully
+[2023-05-07 18:14:19] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:14:19] [Student Form] [Update Record] Record With ID 1001 Updated Successfully
+[2023-05-07 18:14:21] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:14:21] [Card Generator] [Database] Enabled
+[2023-05-07 18:14:21] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:14:21] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:14:21] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:14:21] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:14:21] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:14:21] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:14:21] [Open Form] CardGenerator_frm
+[2023-05-07 18:14:33] [Error] While Finding The Scanner Form
+[2023-05-07 18:14:34] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:14:34] [Card Generator] [Database] Enabled
+[2023-05-07 18:14:34] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:14:34] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:14:34] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:14:34] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:14:34] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:14:34] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:14:34] [Open Form] CardGenerator_frm
+[2023-05-07 18:14:39] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 18:14:42]
+
+Log File Started [2023-05-07 18:21:34]
+[2023-05-07 18:21:38] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:21:38] [Card Generator] [Database] Enabled
+[2023-05-07 18:21:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:21:38] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:21:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:21:38] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:21:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:21:38] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:21:38] [Open Form] CardGenerator_frm
+[2023-05-07 18:21:41] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 18:21:44]
+
+[2023-05-07 18:22:05] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:22:05] [Card Generator] [Database] Enabled
+[2023-05-07 18:22:05] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:22:05] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:22:05] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:22:05] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:22:05] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:22:05] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:22:08] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 18:22:11]
+
+[2023-05-07 18:35:34] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:35:34] [Card Generator] [Database] Enabled
+[2023-05-07 18:35:35] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:35:35] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:35:35] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:35:35] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:35:35] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:35:35] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:35:45] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 18:35:49]
+
+[2023-05-07 18:36:46] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:36:46] [Card Generator] [Database] Enabled
+[2023-05-07 18:36:47] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:36:47] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:36:47] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:36:47] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:36:47] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:36:47] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:36:55] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:36:55] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+Log File Ended [2023-05-07 18:36:58]
+
+Log File Started [2023-05-07 18:37:22]
+[2023-05-07 18:37:36] [Error] While Finding The Scanner Form
+[2023-05-07 18:37:37] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:37:37] [Card Generator] [Database] Enabled
+[2023-05-07 18:37:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:37:38] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:37:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:37:38] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:37:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:37:38] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:37:38] [Open Form] CardGenerator_frm
+[2023-05-07 18:37:42] [Student Form] [Database] Connected with sqlite
+[2023-05-07 18:37:42] [Student Form] [Database] Enabled
+[2023-05-07 18:37:42] [Student Form] [Fetch] Record Successfully
+[2023-05-07 18:37:42] [Student Form] [ID Refresh] Successfully
+[2023-05-07 18:37:42] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:37:42] [Student Form] [Fetch] Record Successfully
+[2023-05-07 18:37:42] [Student Form] [ID Refresh] Successfully
+[2023-05-07 18:37:42] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:37:42] [Student Form] [ID Refresh] Successfully
+[2023-05-07 18:37:42] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:37:42] [Open Form] StudentForm_frm
+[2023-05-07 18:37:44] [Student Form] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 18:37:49] [Student Form] [Add Error] This ID is Already Assigned, Try New One
+[2023-05-07 18:37:50] [Student Form] [Add Record] Record With ID 1001 Added Successfully
+[2023-05-07 18:37:51] [Student Form] [Fetch] Record Successfully
+[2023-05-07 18:37:51] [Student Form] [ID Refresh] Successfully
+[2023-05-07 18:37:51] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:37:51] [Student Form] [Update Record] Record With ID 1001 Updated Successfully
+[2023-05-07 18:37:53] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:37:53] [Card Generator] [Database] Enabled
+[2023-05-07 18:37:53] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:37:53] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:37:53] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:37:53] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:37:53] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:37:53] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:37:53] [Open Form] CardGenerator_frm
+[2023-05-07 18:37:55] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 18:38:00]
+
+Log File Started [2023-05-07 18:38:20]
+[2023-05-07 18:38:23] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:38:23] [Card Generator] [Database] Enabled
+[2023-05-07 18:38:23] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:38:23] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:38:23] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:38:23] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:38:23] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:38:23] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:38:23] [Open Form] CardGenerator_frm
+Log File Ended [2023-05-07 18:38:31]
+
+[2023-05-07 18:47:20] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:47:20] [Card Generator] [Database] Enabled
+[2023-05-07 18:51:50] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:51:50] [Card Generator] [Database] Enabled
+[2023-05-07 18:51:59] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:51:59] [Card Generator] [Database] Enabled
+[2023-05-07 18:52:45] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:52:45] [Card Generator] [Database] Enabled
+[2023-05-07 18:54:55] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:54:55] [Card Generator] [Database] Enabled
+[2023-05-07 18:56:26] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:56:26] [Card Generator] [Database] Enabled
+[2023-05-07 18:57:04] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 18:57:04] [Card Generator] [Database] Enabled
+[2023-05-07 18:57:09] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:57:09] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 18:57:09] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:57:09] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 18:57:09] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 18:57:09] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 18:58:39]
+
+[2023-05-07 19:01:33] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 19:01:33] [Card Generator] [Database] Enabled
+[2023-05-07 19:01:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:01:38] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:01:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:01:38] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 19:01:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:01:38] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 19:01:41]
+
+[2023-05-07 19:02:26] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 19:02:26] [Card Generator] [Database] Enabled
+[2023-05-07 19:02:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:02:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:02:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:02:31] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 19:02:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:02:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 19:02:52]
+
+[2023-05-07 19:03:36] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 19:03:36] [Card Generator] [Database] Enabled
+[2023-05-07 19:05:47] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 19:05:47] [Card Generator] [Database] Enabled
+[2023-05-07 19:06:29] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 19:06:29] [Card Generator] [Database] Enabled
+[2023-05-07 19:06:33] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:06:33] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:06:33] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:06:33] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 19:06:33] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:06:33] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:08:36] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:08:36] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 695
+Log File Ended [2023-05-07 19:09:00]
+
+[2023-05-07 19:13:36] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 19:13:36] [Card Generator] [Database] Enabled
+[2023-05-07 19:13:41] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:13:41] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:13:41] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:13:41] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 19:13:41] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:13:41] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 19:13:43]
+
+[2023-05-07 19:18:02] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 19:18:02] [Card Generator] [Database] Enabled
+[2023-05-07 19:18:03] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:18:03] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:18:03] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:18:03] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 19:18:03] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:18:03] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 19:18:07]
+
+[2023-05-07 19:18:31] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 19:18:31] [Card Generator] [Database] Enabled
+[2023-05-07 19:18:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:18:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:18:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:18:31] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 19:18:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:18:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 19:18:34]
+
+[2023-05-07 19:19:42] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 19:19:42] [Card Generator] [Database] Enabled
+[2023-05-07 19:19:48] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:19:48] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:19:48] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:19:48] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 19:19:48] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:19:48] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 19:20:47]
+
+Log File Started [2023-05-07 19:31:38]
+[2023-05-07 19:31:42] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 19:31:42] [Card Generator] [Database] Enabled
+[2023-05-07 19:31:52] [Error] While Finding The Scanner Form
+Log File Ended [2023-05-07 19:31:55]
+
+Log File Started [2023-05-07 19:32:21]
+[2023-05-07 19:32:23] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 19:32:23] [Card Generator] [Database] Enabled
+[2023-05-07 19:32:27] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:32:27] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:32:27] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:32:27] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 19:32:27] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:32:27] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:32:27] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 19:33:20]
+
+Log File Started [2023-05-07 19:33:50]
+[2023-05-07 19:33:51] [Student Form] [Database] Connected with sqlite
+[2023-05-07 19:33:51] [Student Form] [Database] Enabled
+[2023-05-07 19:33:52] [Student Form] [Fetch] Record Successfully
+[2023-05-07 19:33:52] [Student Form] [ID Refresh] Successfully
+[2023-05-07 19:33:52] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:33:52] [Student Form] [Fetch] Record Successfully
+[2023-05-07 19:33:52] [Student Form] [ID Refresh] Successfully
+[2023-05-07 19:33:52] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 19:33:52] [Student Form] [ID Refresh] Successfully
+[2023-05-07 19:33:52] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:33:52] [Open Form] StudentForm_frm
+[2023-05-07 19:33:53] [Student Form] [Get Data] Record 1001 Selected Successfully
+Log File Ended [2023-05-07 19:34:00]
+
+Log File Started [2023-05-07 19:36:22]
+[2023-05-07 19:36:27] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 19:36:27] [Card Generator] [Database] Enabled
+[2023-05-07 19:36:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:36:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:36:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:36:31] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 19:36:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:36:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:36:31] [Open Form] Scanner_frm
+[2023-05-07 19:37:17] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 19:37:17] [Card Generator] [Database] Enabled
+[2023-05-07 19:37:21] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:37:21] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:37:21] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:37:21] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 19:37:21] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 19:37:21] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 19:37:21] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 19:37:27]
+
+[2023-05-07 20:18:18] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 20:18:18] [Card Generator] [Database] Enabled
+[2023-05-07 20:18:26] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 20:18:26] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 20:18:26] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 20:18:26] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 20:18:26] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 20:18:26] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 20:18:35]
+
+[2023-05-07 20:37:21] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 20:37:21] [Card Generator] [Database] Enabled
+[2023-05-07 20:37:26] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 20:37:26] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 20:37:26] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 20:37:26] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 20:37:26] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 20:37:26] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 20:37:39]
+
+[2023-05-07 20:38:03] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 20:38:03] [Card Generator] [Database] Enabled
+[2023-05-07 20:38:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 20:38:08] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 20:38:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 20:38:08] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 20:38:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 20:38:08] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 20:38:15]
+
+[2023-05-07 20:40:13] [Attendance Details] [Database] Connected with sqlite
+[2023-05-07 20:40:13] [Attendance Details] [Database] Enabled
+[2023-05-07 20:40:13] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 20:40:14] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 20:40:14] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 20:40:14] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 20:40:14] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 20:40:14] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 20:40:14] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 20:40:14] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 20:40:16] [Attendance Details] [Get Data] Record 1001 Selected Successfully
+Log File Ended [2023-05-07 20:40:22]
+
+Log File Started [2023-05-07 21:29:17]
+[2023-05-07 21:29:20] [Student Form] [Database] Connected with sqlite
+[2023-05-07 21:29:20] [Student Form] [Database] Enabled
+[2023-05-07 21:29:20] [Student Form] [Fetch] Record Successfully
+[2023-05-07 21:29:20] [Student Form] [ID Refresh] Successfully
+[2023-05-07 21:29:20] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:29:20] [Student Form] [Fetch] Record Successfully
+[2023-05-07 21:29:20] [Student Form] [ID Refresh] Successfully
+[2023-05-07 21:29:20] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:29:20] [Student Form] [ID Refresh] Successfully
+[2023-05-07 21:29:20] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:29:20] [Open Form] StudentForm_frm
+[2023-05-07 21:29:21] [Student Form] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 21:29:25] [Student Form] [Fetch] Record Successfully
+[2023-05-07 21:29:25] [Student Form] [ID Refresh] Successfully
+[2023-05-07 21:29:25] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:29:25] [Student Form] [Update Record] Record With ID 1001 Updated Successfully
+[2023-05-07 21:29:27] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:29:27] [Card Generator] [Database] Enabled
+[2023-05-07 21:29:32] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:29:32] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:29:32] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:29:32] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:29:32] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:29:32] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:29:32] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 21:30:51]
+
+Log File Started [2023-05-07 21:31:39]
+[2023-05-07 21:31:41] [Student Form] [Database] Connected with sqlite
+[2023-05-07 21:31:41] [Student Form] [Database] Enabled
+[2023-05-07 21:31:41] [Student Form] [Fetch] Record Successfully
+[2023-05-07 21:31:41] [Student Form] [ID Refresh] Successfully
+[2023-05-07 21:31:41] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:31:41] [Student Form] [Fetch] Record Successfully
+[2023-05-07 21:31:41] [Student Form] [ID Refresh] Successfully
+[2023-05-07 21:31:41] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:31:41] [Student Form] [ID Refresh] Successfully
+[2023-05-07 21:31:41] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:31:41] [Open Form] StudentForm_frm
+[2023-05-07 21:31:42] [Student Form] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 21:32:28] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:32:28] [Card Generator] [Database] Enabled
+[2023-05-07 21:32:34] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:32:34] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:32:34] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:32:34] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:32:34] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:32:34] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:32:34] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 21:33:02]
+
+Log File Started [2023-05-07 21:33:06]
+[2023-05-07 21:33:08] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:33:08] [Card Generator] [Database] Enabled
+[2023-05-07 21:33:12] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:33:12] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:33:12] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:33:12] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:33:12] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:33:12] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:33:12] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 21:33:19]
+
+Log File Started [2023-05-07 21:33:55]
+[2023-05-07 21:33:57] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:33:57] [Card Generator] [Database] Enabled
+[2023-05-07 21:34:01] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:34:01] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:34:01] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:34:01] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:34:01] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:34:01] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:34:01] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 21:34:06]
+
+Log File Started [2023-05-07 21:34:51]
+[2023-05-07 21:34:52] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:34:52] [Card Generator] [Database] Enabled
+[2023-05-07 21:34:56] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:34:56] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:34:56] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:34:56] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:34:56] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:34:56] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:34:56] [Open Form] Scanner_frm
+[2023-05-07 21:35:03] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:35:03] [Card Generator] [Database] Enabled
+[2023-05-07 21:35:07] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:35:07] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:35:07] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:35:07] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:35:07] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:35:07] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:35:07] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 21:35:16]
+
+Log File Started [2023-05-07 21:36:32]
+[2023-05-07 21:36:34] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:36:34] [Card Generator] [Database] Enabled
+[2023-05-07 21:36:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:36:38] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:36:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:36:38] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:36:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:36:38] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:36:38] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 21:36:49]
+
+Log File Started [2023-05-07 21:36:59]
+[2023-05-07 21:37:01] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:37:01] [Card Generator] [Database] Enabled
+[2023-05-07 21:37:05] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:37:05] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:37:05] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:37:05] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:37:05] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:37:05] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:37:05] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 21:37:56]
+
+[2023-05-07 21:39:24] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:39:24] [Card Generator] [Database] Enabled
+[2023-05-07 21:39:28] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:39:28] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:39:28] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:39:28] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:39:28] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:39:28] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 21:39:37]
+
+[2023-05-07 21:40:07] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:40:07] [Card Generator] [Database] Enabled
+[2023-05-07 21:40:11] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:40:11] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:40:11] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:40:11] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:40:11] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:40:11] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 21:40:13]
+
+[2023-05-07 21:41:39] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:41:39] [Card Generator] [Database] Enabled
+[2023-05-07 21:41:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:41:44] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:41:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:41:44] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:41:45] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:41:45] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 21:41:59]
+
+[2023-05-07 21:42:39] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:42:39] [Card Generator] [Database] Enabled
+[2023-05-07 21:42:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:42:44] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:42:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:42:44] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:42:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:42:44] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 21:42:49]
+
+[2023-05-07 21:44:22] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:44:22] [Card Generator] [Database] Enabled
+[2023-05-07 21:44:26] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:44:26] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:44:26] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:44:26] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:44:26] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:44:26] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 21:44:34]
+
+[2023-05-07 21:49:10] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:49:10] [Card Generator] [Database] Enabled
+[2023-05-07 21:49:14] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:49:14] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:49:14] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:49:14] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:49:14] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:49:14] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 21:49:21]
+
+[2023-05-07 21:49:54] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:49:54] [Card Generator] [Database] Enabled
+[2023-05-07 21:49:58] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:49:58] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:49:58] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:49:58] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:49:58] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:49:58] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 21:50:04]
+
+[2023-05-07 21:55:38] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:55:38] [Card Generator] [Database] Enabled
+[2023-05-07 21:55:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:55:44] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:55:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:55:44] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:55:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:55:44] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 21:56:00]
+
+[2023-05-07 21:57:08] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 21:57:08] [Card Generator] [Database] Enabled
+[2023-05-07 21:57:13] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:57:13] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 21:57:13] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:57:13] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 21:57:13] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 21:57:13] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 21:57:37]
+
+Log File Started [2023-05-07 22:04:18]
+[2023-05-07 22:04:20] [Attendance Details] [Database] Connected with sqlite
+[2023-05-07 22:04:20] [Attendance Details] [Database] Enabled
+[2023-05-07 22:04:20] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 22:04:20] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 22:04:20] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:04:20] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 22:04:20] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 22:04:20] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:04:20] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 22:04:20] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:04:20] [Open Form] AttendanceDetails_frm
+[2023-05-07 22:04:21] [Attendance Details] [Get Data] Record 1003 Selected Successfully
+[2023-05-07 22:04:23] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 22:04:23] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 22:04:23] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:04:23] [Attendance Details] [Delete Record] Record With ID 1003 Deleted Successfully
+[2023-05-07 22:04:26] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:04:26] [Card Generator] [Database] Enabled
+[2023-05-07 22:04:30] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:04:30] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:04:30] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:04:30] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:04:30] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:04:30] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:04:30] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 22:04:48]
+
+Log File Started [2023-05-07 22:06:32]
+[2023-05-07 22:06:36] [Attendance Details] [Database] Connected with sqlite
+[2023-05-07 22:06:36] [Attendance Details] [Database] Enabled
+[2023-05-07 22:06:36] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 22:06:36] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 22:06:36] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:06:36] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 22:06:36] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 22:06:36] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:06:36] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 22:06:36] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:06:36] [Open Form] AttendanceDetails_frm
+[2023-05-07 22:06:37] [Attendance Details] [Get Data] Record 1003 Selected Successfully
+[2023-05-07 22:06:38] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 22:06:38] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 22:06:38] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:06:38] [Attendance Details] [Delete Record] Record With ID 1003 Deleted Successfully
+[2023-05-07 22:06:42] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:06:42] [Card Generator] [Database] Enabled
+[2023-05-07 22:06:46] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:06:46] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:06:46] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:06:46] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:06:46] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:06:46] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:06:46] [Open Form] Scanner_frm
+[2023-05-07 22:07:40] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:07:40] [Card Generator] [Database] Enabled
+[2023-05-07 22:07:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:07:44] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:07:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:07:44] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:07:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:07:44] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:07:44] [Open Form] Scanner_frm
+[2023-05-07 22:09:30] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:09:30] [Card Generator] [Database] Enabled
+[2023-05-07 22:09:34] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:09:34] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:09:34] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:09:34] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:09:34] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:09:34] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:09:34] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 22:10:06]
+
+Log File Started [2023-05-07 22:32:47]
+[2023-05-07 22:32:51] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:32:51] [Card Generator] [Database] Enabled
+[2023-05-07 22:32:52] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:32:52] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:32:52] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:32:52] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:32:52] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:32:52] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:32:52] [Open Form] CardGenerator_frm
+[2023-05-07 22:32:56] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 22:33:02]
+
+Log File Started [2023-05-07 22:33:06]
+[2023-05-07 22:33:08] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:33:08] [Card Generator] [Database] Enabled
+[2023-05-07 22:33:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:33:08] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:33:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:33:08] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:33:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:33:08] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:33:08] [Open Form] CardGenerator_frm
+[2023-05-07 22:33:12] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:33:13] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:33:13] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:33:13] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:33:14] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:33:14] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:33:14] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:33:17] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:33:26] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:33:27] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:33:27] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 22:33:31]
+
+Log File Started [2023-05-07 22:34:07]
+[2023-05-07 22:34:11] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:34:11] [Card Generator] [Database] Enabled
+[2023-05-07 22:34:12] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:34:12] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:34:12] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:34:12] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:34:12] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:34:12] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:34:12] [Open Form] CardGenerator_frm
+[2023-05-07 22:34:14] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 22:34:16]
+
+[2023-05-07 22:34:49] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:34:49] [Card Generator] [Database] Enabled
+[2023-05-07 22:34:49] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:34:49] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:34:49] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:34:49] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:34:49] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:34:49] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:34:50] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 22:34:53]
+
+[2023-05-07 22:35:44] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:35:44] [Card Generator] [Database] Enabled
+[2023-05-07 22:35:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:35:44] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:35:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:35:44] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:35:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:35:44] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:35:46] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 22:35:47]
+
+[2023-05-07 22:36:13] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:36:13] [Card Generator] [Database] Enabled
+[2023-05-07 22:36:14] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:36:14] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:36:14] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:36:14] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:36:14] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:36:14] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:36:41] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 22:37:12]
+
+[2023-05-07 22:37:15] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:37:15] [Card Generator] [Database] Enabled
+[2023-05-07 22:37:16] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:37:16] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:37:16] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:37:16] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:37:16] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:37:16] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:37:22] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:38:31] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:38:31] [Card Generator] [Database] Enabled
+[2023-05-07 22:38:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:38:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:38:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:38:31] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:38:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:38:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:38:36] [Card Generator] [Fetch] Record Successfully
+Log File Ended [2023-05-07 22:40:54]
+
+[2023-05-07 22:41:37] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:41:37] [Card Generator] [Database] Enabled
+[2023-05-07 22:41:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:41:38] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:41:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:41:38] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:41:38] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:41:38] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:41:41] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:41:45] [Card Generator] [Card Generating] We Found Error: type object 'Image' has no attribute 'new'
+Log File Ended [2023-05-07 22:41:53]
+
+[2023-05-07 22:46:06] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:46:06] [Card Generator] [Database] Enabled
+[2023-05-07 22:46:07] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:46:07] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:46:07] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:46:07] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:46:07] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:46:07] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:46:09] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:46:09] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:46:09] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:46:09] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:46:10] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:46:10] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:46:10] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:46:10] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:46:10] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:46:10] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:46:10] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:46:10] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:46:11] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:46:11] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:46:11] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:46:11] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:46:11] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:46:13] [Card Generator] [Card Generating] We Found Error: type object 'Image' has no attribute 'new'
+Log File Ended [2023-05-07 22:46:26]
+
+[2023-05-07 22:47:09] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:47:09] [Card Generator] [Database] Enabled
+[2023-05-07 22:47:10] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:47:10] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:47:10] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:47:10] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:47:10] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:47:10] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:47:11] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:47:12] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:47:12] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:47:12] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:47:13] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:47:13] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:47:13] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:47:13] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:47:13] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:47:13] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:47:13] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:47:13] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:47:14] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:47:14] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:47:14] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:47:14] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:47:14] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:47:16] [Card Generator] [Card Generating] We Found Error: module 'PIL.Image' has no attribute 'resize'
+Log File Ended [2023-05-07 22:47:23]
+
+[2023-05-07 22:48:05] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:48:05] [Card Generator] [Database] Enabled
+[2023-05-07 22:48:06] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:48:06] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:48:06] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:48:06] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:48:06] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:48:06] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:48:08] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:48:08] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:48:09] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:48:09] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:48:09] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:48:09] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:48:09] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:48:09] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:48:09] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:48:09] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:48:10] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:48:10] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:48:10] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:48:10] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:48:10] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:48:10] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:48:10] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:48:14] [Card Generator] [Card Generating] Card Saved Successfully
+Log File Ended [2023-05-07 22:48:19]
+
+[2023-05-07 22:49:12] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:49:12] [Card Generator] [Database] Enabled
+[2023-05-07 22:49:13] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:49:13] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:49:13] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:49:13] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:49:13] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:49:13] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:49:15] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:49:16] [Card Generator] [Get Data] Record 1006 Selected Successfully
+[2023-05-07 22:49:19] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:49:19] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:49:19] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:49:20] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:49:20] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:49:20] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:49:20] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:49:20] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:49:20] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:49:20] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:49:20] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:49:21] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:49:21] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:49:21] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:49:24] [Card Generator] [Card Generating] Card Saved Successfully
+Log File Ended [2023-05-07 22:49:26]
+
+[2023-05-07 22:49:43] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:49:43] [Card Generator] [Database] Enabled
+[2023-05-07 22:49:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:49:44] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:49:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:49:44] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:49:44] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:49:44] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:49:45] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:49:46] [Card Generator] [Get Data] Record 1004 Selected Successfully
+[2023-05-07 22:49:51] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:49:51] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:49:51] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:49:51] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:49:51] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:49:52] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:49:52] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:49:52] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:49:52] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:49:52] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:49:52] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:49:52] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:49:52] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:49:53] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:49:56] [Card Generator] [Card Generating] Card Saved Successfully
+[2023-05-07 22:51:19] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:51:21] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:51:21] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:51:26] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:26] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:26] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:26] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:26] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:26] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:26] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:27] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:27] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:27] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:27] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:27] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:27] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:27] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:27] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:28] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:28] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:28] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:28] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:28] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:28] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:29] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:29] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:29] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:29] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:29] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:29] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:29] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:29] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:30] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:30] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:30] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:30] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:30] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:30] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:30] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:30] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:31] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:31] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:31] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:31] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:31] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:31] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:31] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:31] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:51:32] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:51:38] [Card Generator] [Card Generating] Card Saved Successfully
+Log File Ended [2023-05-07 22:51:42]
+
+[2023-05-07 22:56:33] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:56:33] [Card Generator] [Database] Enabled
+[2023-05-07 22:56:33] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:56:33] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:56:33] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:56:33] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:56:33] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:56:33] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:56:35] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 22:56:36] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:36] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:36] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:37] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:37] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:37] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:37] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:37] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:37] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:37] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:37] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:37] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:37] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:38] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:38] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:38] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:38] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:38] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:38] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:38] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:38] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:39] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:39] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:39] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:39] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:39] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:39] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:39] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:39] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:39] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:39] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 22:56:40] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 22:56:47] [Card Generator] [Card Generating] Card Saved Successfully
+[2023-05-07 22:56:47] [Card Generator] [Card Generating] Card Designed Successfully   Total Cards: 16  Successful: 16  Error: 0
+Log File Ended [2023-05-07 22:59:28]
+
+[2023-05-07 22:59:32] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:59:32] [Card Generator] [Database] Enabled
+[2023-05-07 22:59:33] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:59:33] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:59:33] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:59:33] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:59:33] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:59:33] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:59:35] [Card Generator] [Fetch] We Found Error: unhashable type: 'list'
+[2023-05-07 22:59:41] [Card Generator] [Fetch] We Found Error: unhashable type: 'list'
+Log File Ended [2023-05-07 22:59:44]
+
+[2023-05-07 22:59:58] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 22:59:58] [Card Generator] [Database] Enabled
+[2023-05-07 22:59:59] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:59:59] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 22:59:59] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:59:59] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 22:59:59] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 22:59:59] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:00:01] [Card Generator] [Fetch] We Found Error: unhashable type: 'list'
+Log File Ended [2023-05-07 23:00:05]
+
+[2023-05-07 23:00:51] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:00:51] [Card Generator] [Database] Enabled
+[2023-05-07 23:00:52] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:00:52] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:00:52] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:00:52] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:00:52] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:00:52] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:00:54] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 23:00:55] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 23:00:56] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 23:00:56] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 23:00:56] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 23:00:56] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 23:01:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:01:08] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+Log File Ended [2023-05-07 23:01:11]
+
+[2023-05-07 23:06:39] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:06:39] [Card Generator] [Database] Enabled
+[2023-05-07 23:06:39] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:06:39] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:06:39] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:06:39] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:06:40] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:06:40] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 23:07:16]
+
+[2023-05-07 23:25:58] [Student Form] [Database] Connected with sqlite
+[2023-05-07 23:25:58] [Student Form] [Database] Enabled
+[2023-05-07 23:26:19] [Student Form] [Database] Connected with sqlite
+[2023-05-07 23:26:19] [Student Form] [Database] Enabled
+[2023-05-07 23:26:19] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:26:20] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:26:20] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:26:20] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:26:20] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:26:20] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:26:20] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:26:20] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:26:22] [Student Form] [Get Data] Record 1006 Selected Successfully
+[2023-05-07 23:26:23] [Student Form] [Get Data] Record 1010 Selected Successfully
+[2023-05-07 23:26:24] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:26:24] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:26:24] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+Log File Ended [2023-05-07 23:26:28]
+
+[2023-05-07 23:26:59] [Student Form] [Database] Connected with sqlite
+[2023-05-07 23:26:59] [Student Form] [Database] Enabled
+[2023-05-07 23:26:59] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:26:59] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:26:59] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:26:59] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:26:59] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:26:59] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:26:59] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:26:59] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 23:27:02]
+
+[2023-05-07 23:27:11] [Student Form] [Database] Connected with sqlite
+[2023-05-07 23:27:11] [Student Form] [Database] Enabled
+[2023-05-07 23:27:11] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:27:11] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:27:11] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:27:11] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:27:11] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:27:11] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:27:11] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:27:11] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 23:27:26]
+
+[2023-05-07 23:35:20] [Student Form] [Database] Connected with sqlite
+[2023-05-07 23:35:20] [Student Form] [Database] Enabled
+[2023-05-07 23:35:20] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:35:20] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:35:20] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:35:20] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:35:20] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:35:20] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:35:21] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:35:21] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 23:35:25]
+
+[2023-05-07 23:36:04] [Student Form] [Database] Connected with sqlite
+[2023-05-07 23:36:04] [Student Form] [Database] Enabled
+[2023-05-07 23:36:04] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:36:04] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:36:04] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:36:04] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:36:04] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:36:04] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:36:05] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:36:05] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:36:20] [Student Form] [Get Data] Record 1005 Selected Successfully
+[2023-05-07 23:36:26] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:36:26] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:36:26] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+Log File Ended [2023-05-07 23:36:42]
+
+[2023-05-07 23:37:07] [Student Form] [Database] Connected with sqlite
+[2023-05-07 23:37:07] [Student Form] [Database] Enabled
+[2023-05-07 23:37:07] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:37:07] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:37:07] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:37:07] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:37:07] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:37:07] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:37:07] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:37:07] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 23:37:29]
+
+[2023-05-07 23:37:44] [Student Form] [Database] Connected with sqlite
+[2023-05-07 23:37:44] [Student Form] [Database] Enabled
+[2023-05-07 23:37:44] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:37:45] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:37:45] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:37:45] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:37:45] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:37:45] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:37:45] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:37:45] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+Log File Ended [2023-05-07 23:37:55]
+
+[2023-05-07 23:38:08] [Student Form] [Database] Connected with sqlite
+[2023-05-07 23:38:08] [Student Form] [Database] Enabled
+[2023-05-07 23:38:08] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:38:08] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:38:08] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:38:08] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:38:08] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:38:08] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:38:08] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:38:08] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:38:19] [Student Form] [Get Data] Record 1002 Selected Successfully
+[2023-05-07 23:38:26] [Student Form] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 23:39:11] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:39:11] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:39:11] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:39:11] [Student Form] [Update Record] Record With ID 1001 Updated Successfully
+[2023-05-07 23:39:16] [Student Form] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 23:39:19] [Student Form] [Get Data] Record 1002 Selected Successfully
+[2023-05-07 23:40:01] [Student Form] [Add Error] This ID is Already Assigned, Try New One
+[2023-05-07 23:40:02] [Student Form] [Add Record] Record With ID 1002 Added Successfully
+[2023-05-07 23:40:03] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:40:03] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:40:03] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:40:03] [Student Form] [Update Record] Record With ID 1002 Updated Successfully
+[2023-05-07 23:40:04] [Student Form] [Get Data] Record 1002 Selected Successfully
+[2023-05-07 23:40:06] [Student Form] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 23:40:08] [Student Form] [Get Data] Record 1003 Selected Successfully
+[2023-05-07 23:40:37] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:40:37] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:40:37] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:40:37] [Student Form] [Update Record] Record With ID 1003 Updated Successfully
+[2023-05-07 23:40:47] [Student Form] [Get Data] Record 1004 Selected Successfully
+[2023-05-07 23:41:34] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:41:34] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:41:34] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:41:34] [Student Form] [Update Record] Record With ID 1004 Updated Successfully
+Log File Ended [2023-05-07 23:41:38]
+
+Log File Started [2023-05-07 23:42:54]
+[2023-05-07 23:42:56] [Classes] [Database] Connected with sqlite
+[2023-05-07 23:42:56] [Classes] [Database] Enabled
+[2023-05-07 23:42:56] [Classes] [Fetch] Record Successfully
+[2023-05-07 23:42:57] [Classes] [ID Refresh] Successfully
+[2023-05-07 23:42:57] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:42:57] [Classes] [Fetch] Record Successfully
+[2023-05-07 23:42:57] [Classes] [ID Refresh] Successfully
+[2023-05-07 23:42:57] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:42:57] [Classes] [ID Refresh] Successfully
+[2023-05-07 23:42:57] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:42:57] [Open Form] Classes_frm
+[2023-05-07 23:42:58] [Classes] [Get Data] Record 1004 Selected Successfully
+[2023-05-07 23:42:58] [Classes] [Get Data] Record 1005 Selected Successfully
+[2023-05-07 23:42:58] [Classes] [Get Data] Record 1006 Selected Successfully
+[2023-05-07 23:42:59] [Classes] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 23:43:12] [Student Form] [Database] Connected with sqlite
+[2023-05-07 23:43:12] [Student Form] [Database] Enabled
+[2023-05-07 23:43:12] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:43:12] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:43:12] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:43:12] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:43:12] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:43:12] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:43:12] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:43:12] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:43:12] [Open Form] StudentForm_frm
+[2023-05-07 23:43:13] [Student Form] [Get Data] Record 1002 Selected Successfully
+[2023-05-07 23:43:15] [Student Form] [Fetch] Record Successfully
+[2023-05-07 23:43:15] [Student Form] [ID Refresh] Successfully
+[2023-05-07 23:43:15] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:43:27] [Attendance Details] [Database] Connected with sqlite
+[2023-05-07 23:43:27] [Attendance Details] [Database] Enabled
+[2023-05-07 23:43:27] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:43:28] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:43:28] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:43:28] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:43:28] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:43:28] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:43:28] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:43:28] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:43:28] [Open Form] AttendanceDetails_frm
+[2023-05-07 23:43:28] [Attendance Details] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 23:43:30] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:43:30] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:43:30] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:43:35] [Attendance Details] [Get Data] Error: string index out of range
+[2023-05-07 23:43:41] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:43:41] [Card Generator] [Database] Enabled
+[2023-05-07 23:43:48] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:43:48] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:43:48] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:43:48] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:43:48] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:43:48] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:43:48] [Open Form] Scanner_frm
+[2023-05-07 23:44:09] [Attendance Details] [Database] Connected with sqlite
+[2023-05-07 23:44:09] [Attendance Details] [Database] Enabled
+[2023-05-07 23:44:09] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:44:09] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:44:09] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:44:09] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:44:09] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:44:09] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:44:09] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:44:09] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:44:09] [Open Form] AttendanceDetails_frm
+[2023-05-07 23:44:11] [Attendance Details] [Get Data] Record 1004 Selected Successfully
+[2023-05-07 23:44:31] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:44:31] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:44:31] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:44:31] [Attendance Details] [Update Record] Record With ID 1004 Updated Successfully
+[2023-05-07 23:44:33] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:44:33] [Card Generator] [Database] Enabled
+[2023-05-07 23:44:36] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:44:36] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:44:36] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:44:36] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:44:36] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:44:36] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:44:36] [Open Form] Scanner_frm
+[2023-05-07 23:45:07] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:45:07] [Card Generator] [Database] Enabled
+[2023-05-07 23:45:11] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:45:11] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:45:11] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:45:11] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:45:11] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:45:11] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:45:11] [Open Form] Scanner_frm
+[2023-05-07 23:45:27] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:45:27] [Card Generator] [Database] Enabled
+[2023-05-07 23:45:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:45:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:45:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:45:31] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:45:31] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:45:31] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:45:31] [Open Form] Scanner_frm
+[2023-05-07 23:45:36] [Attendance Details] [Database] Connected with sqlite
+[2023-05-07 23:45:36] [Attendance Details] [Database] Enabled
+[2023-05-07 23:45:36] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:45:36] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:45:36] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:45:36] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:45:36] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:45:36] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:45:36] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:45:36] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:45:36] [Open Form] AttendanceDetails_frm
+[2023-05-07 23:45:37] [Attendance Details] [Get Data] Record 1005 Selected Successfully
+[2023-05-07 23:45:42] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:45:42] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:45:42] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:45:42] [Attendance Details] [Update Record] Record With ID 1005 Updated Successfully
+[2023-05-07 23:45:43] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:45:43] [Card Generator] [Database] Enabled
+[2023-05-07 23:45:47] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:45:47] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:45:47] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:45:47] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:45:47] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:45:47] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:45:47] [Open Form] Scanner_frm
+[2023-05-07 23:46:10] [Fees Management] [Database] Connected with sqlite
+[2023-05-07 23:46:10] [Fees Management] [Database] Enabled
+[2023-05-07 23:46:11] [Fees Management] [Fetch] Record Successfully
+[2023-05-07 23:46:11] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 23:46:11] [Fees Management] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:46:11] [Fees Management] [Fetch] Record Successfully
+[2023-05-07 23:46:11] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 23:46:11] [Fees Management] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:46:11] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 23:46:11] [Fees Management] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:46:11] [Open Form] FeesManagement_frm
+[2023-05-07 23:46:13] [Fees Management] [Database] Connected with sqlite
+[2023-05-07 23:46:13] [Fees Management] [Database] Enabled
+[2023-05-07 23:46:13] [Fees Management] [Fetch] Record Successfully
+[2023-05-07 23:46:13] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 23:46:13] [Fees Management] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:46:13] [Fees Management] [Fetch] Record Successfully
+[2023-05-07 23:46:13] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 23:46:13] [Fees Management] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:46:13] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 23:46:13] [Fees Management] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:46:13] [Open Form] FeesManagement_frm
+[2023-05-07 23:46:15] [Fees Management] [Get Data] Record 1001 Selected Successfully
+[2023-05-07 23:46:17] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:46:17] [Card Generator] [Database] Enabled
+[2023-05-07 23:46:17] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:46:17] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:46:17] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:46:17] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:46:17] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:46:17] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:46:17] [Open Form] CardGenerator_frm
+[2023-05-07 23:46:21] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 23:46:23] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:46:23] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:46:23] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:46:23] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:46:23] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:46:23] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:46:23] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:46:23] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:46:31] [Card Generator] [Card Generating] Card Saved Successfully
+[2023-05-07 23:46:31] [Card Generator] [Card Generating] Card Designed Successfully   Total Cards: 4  Successful: 4  Error: 0
+[2023-05-07 23:46:59] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:46:59] [Card Generator] [Database] Enabled
+[2023-05-07 23:46:59] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:46:59] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:46:59] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:46:59] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:46:59] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:46:59] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:46:59] [Open Form] CardGenerator_frm
+[2023-05-07 23:47:00] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 23:47:01] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:47:01] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:47:01] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:47:01] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:47:01] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:47:02] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:47:02] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:47:02] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:47:08] [Card Generator] [Card Generating] Card Saved Successfully
+[2023-05-07 23:47:08] [Card Generator] [Card Generating] Card Designed Successfully   Total Cards: 4  Successful: 4  Error: 0
+[2023-05-07 23:47:42] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:47:42] [Card Generator] [Database] Enabled
+[2023-05-07 23:47:46] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:47:46] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:47:46] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:47:46] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:47:46] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:47:46] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:47:46] [Open Form] Scanner_frm
+[2023-05-07 23:47:49] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:47:49] [Card Generator] [Database] Enabled
+[2023-05-07 23:47:49] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:47:49] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:47:49] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:47:49] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:47:49] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:47:49] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:47:49] [Open Form] CardGenerator_frm
+[2023-05-07 23:47:52] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 23:47:53] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:47:53] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:47:53] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:47:53] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:47:53] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:47:53] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:47:53] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:47:53] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:47:59] [Card Generator] [Card Generating] Card Saved Successfully
+[2023-05-07 23:47:59] [Card Generator] [Card Generating] Card Designed Successfully   Total Cards: 4  Successful: 4  Error: 0
+Log File Ended [2023-05-07 23:49:12]
+
+Log File Started [2023-05-07 23:49:16]
+[2023-05-07 23:49:23] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:49:23] [Card Generator] [Database] Enabled
+[2023-05-07 23:49:23] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:49:23] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:49:23] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:49:23] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:49:23] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:49:23] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:49:23] [Open Form] CardGenerator_frm
+[2023-05-07 23:49:24] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 23:49:25] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:49:25] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:49:25] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:49:25] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:49:25] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:49:25] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:49:25] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:49:26] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:49:32] [Card Generator] [Card Generating] Card Saved Successfully
+[2023-05-07 23:49:32] [Card Generator] [Card Generating] Card Designed Successfully   Total Cards: 4  Successful: 4  Error: 0
+Log File Ended [2023-05-07 23:49:35]
+
+Log File Started [2023-05-07 23:50:12]
+[2023-05-07 23:50:15] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:50:15] [Card Generator] [Database] Enabled
+[2023-05-07 23:50:15] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:50:15] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:50:15] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:50:15] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:50:15] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:50:15] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:50:15] [Open Form] CardGenerator_frm
+[2023-05-07 23:50:16] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 23:50:16] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:50:16] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:50:16] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:50:16] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:50:16] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:50:17] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:50:17] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:50:17] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:50:19] [Card Generator] [Card Generating] Card Saved Successfully
+[2023-05-07 23:50:19] [Card Generator] [Card Generating] Card Designed Successfully   Total Cards: 4  Successful: 4  Error: 0
+Log File Ended [2023-05-07 23:50:22]
+
+Log File Started [2023-05-07 23:51:17]
+[2023-05-07 23:51:19] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:51:19] [Card Generator] [Database] Enabled
+[2023-05-07 23:51:19] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:51:19] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:51:19] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:51:19] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:51:19] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:51:19] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:51:19] [Open Form] CardGenerator_frm
+[2023-05-07 23:51:20] [Card Generator] [Fetch] Record Successfully
+[2023-05-07 23:51:21] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:51:21] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:51:21] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:51:21] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:51:22] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:51:22] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:51:22] [Card Generator] [Card Generating] Barcode Generated On Card Successfully
+[2023-05-07 23:51:22] [Card Generator] [Card Generating] Card Designed Successfully
+[2023-05-07 23:51:24] [Card Generator] [Card Generating] Card Saved Successfully
+[2023-05-07 23:51:24] [Card Generator] [Card Generating] Card Designed Successfully   Total Cards: 4  Successful: 4  Error: 0
+Log File Ended [2023-05-07 23:51:27]
+
+Log File Started [2023-05-07 23:52:42]
+[2023-05-07 23:52:45] [Attendance Details] [Database] Connected with sqlite
+[2023-05-07 23:52:45] [Attendance Details] [Database] Enabled
+[2023-05-07 23:52:45] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:52:46] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:52:46] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:52:46] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:52:46] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:52:46] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:52:46] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:52:46] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:52:46] [Open Form] AttendanceDetails_frm
+[2023-05-07 23:52:47] [Attendance Details] [Get Data] Record 1006 Selected Successfully
+[2023-05-07 23:52:51] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:52:51] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:52:51] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:52:51] [Attendance Details] [Delete Record] Record With ID 1006 Deleted Successfully
+[2023-05-07 23:52:52] [Attendance Details] [Get Data] Record 1005 Selected Successfully
+[2023-05-07 23:52:54] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:52:54] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:52:54] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:52:54] [Attendance Details] [Delete Record] Record With ID 1005 Deleted Successfully
+[2023-05-07 23:52:54] [Attendance Details] [Get Data] Record 1004 Selected Successfully
+[2023-05-07 23:52:55] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:52:55] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:52:55] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:52:55] [Attendance Details] [Delete Record] Record With ID 1004 Deleted Successfully
+[2023-05-07 23:52:59] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:52:59] [Card Generator] [Database] Enabled
+[2023-05-07 23:53:04] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:53:04] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:53:04] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:53:04] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:53:04] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:53:04] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:53:04] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 23:53:14]
+
+Log File Started [2023-05-07 23:54:00]
+[2023-05-07 23:54:04] [Attendance Details] [Database] Connected with sqlite
+[2023-05-07 23:54:04] [Attendance Details] [Database] Enabled
+[2023-05-07 23:54:04] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:54:04] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:54:04] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:54:04] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:54:04] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:54:04] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:54:04] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:54:04] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:54:04] [Open Form] AttendanceDetails_frm
+[2023-05-07 23:54:06] [Attendance Details] [Get Data] Record 1004 Selected Successfully
+[2023-05-07 23:54:07] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:54:07] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:54:07] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:54:07] [Attendance Details] [Delete Record] Record With ID 1004 Deleted Successfully
+[2023-05-07 23:54:09] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:54:09] [Card Generator] [Database] Enabled
+[2023-05-07 23:54:13] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:54:13] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:54:13] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:54:13] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:54:13] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:54:13] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:54:13] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 23:54:50]
+
+Log File Started [2023-05-07 23:55:09]
+[2023-05-07 23:55:12] [Fees Management] [Database] Connected with sqlite
+[2023-05-07 23:55:12] [Fees Management] [Database] Enabled
+[2023-05-07 23:55:12] [Fees Management] [Fetch] Record Successfully
+[2023-05-07 23:55:12] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 23:55:12] [Fees Management] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:55:12] [Fees Management] [Fetch] Record Successfully
+[2023-05-07 23:55:12] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 23:55:12] [Fees Management] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:55:12] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 23:55:12] [Fees Management] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:55:12] [Open Form] FeesManagement_frm
+[2023-05-07 23:55:13] [Attendance Details] [Database] Connected with sqlite
+[2023-05-07 23:55:13] [Attendance Details] [Database] Enabled
+[2023-05-07 23:55:13] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:55:14] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:55:14] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:55:14] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:55:14] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:55:14] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:55:14] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:55:14] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:55:14] [Open Form] AttendanceDetails_frm
+[2023-05-07 23:55:14] [Attendance Details] [Get Data] Record 1004 Selected Successfully
+[2023-05-07 23:55:16] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:55:16] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:55:16] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:55:16] [Attendance Details] [Delete Record] Record With ID 1004 Deleted Successfully
+[2023-05-07 23:55:21] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:55:21] [Card Generator] [Database] Enabled
+[2023-05-07 23:55:25] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:55:25] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:55:25] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:55:25] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:55:25] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:55:25] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:55:25] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 23:55:39]
+
+Log File Started [2023-05-07 23:55:57]
+[2023-05-07 23:55:59] [Attendance Details] [Database] Connected with sqlite
+[2023-05-07 23:55:59] [Attendance Details] [Database] Enabled
+[2023-05-07 23:55:59] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:56:00] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:56:00] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:56:00] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:56:00] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:56:00] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:56:00] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:56:00] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:56:00] [Open Form] AttendanceDetails_frm
+[2023-05-07 23:56:00] [Attendance Details] [Get Data] Record 1004 Selected Successfully
+[2023-05-07 23:56:02] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:56:02] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:56:02] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:56:02] [Attendance Details] [Delete Record] Record With ID 1004 Deleted Successfully
+[2023-05-07 23:56:04] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:56:04] [Card Generator] [Database] Enabled
+[2023-05-07 23:56:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:56:08] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:56:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:56:08] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:56:08] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:56:08] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:56:08] [Open Form] Scanner_frm
+Log File Ended [2023-05-07 23:56:53]
+
+Log File Started [2023-05-07 23:57:18]
+[2023-05-07 23:57:31] [Attendance Details] [Database] Connected with sqlite
+[2023-05-07 23:57:31] [Attendance Details] [Database] Enabled
+[2023-05-07 23:57:31] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:57:31] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:57:31] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:57:31] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:57:31] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:57:31] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:57:31] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:57:31] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:57:31] [Open Form] AttendanceDetails_frm
+[2023-05-07 23:57:32] [Attendance Details] [Get Data] Record 1004 Selected Successfully
+[2023-05-07 23:57:33] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:57:33] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:57:33] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:57:33] [Attendance Details] [Delete Record] Record With ID 1004 Deleted Successfully
+[2023-05-07 23:57:33] [Attendance Details] [Add Error] Date IS REQUIRED
+[2023-05-07 23:57:36] [Card Generator] [Database] Connected with sqlite
+[2023-05-07 23:57:36] [Card Generator] [Database] Enabled
+[2023-05-07 23:57:40] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:57:40] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:57:40] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:57:40] [Card Generator] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:57:40] [Card Generator] [ID Refresh] Successfully
+[2023-05-07 23:57:40] [Card Generator] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:57:40] [Open Form] Scanner_frm
+[2023-05-07 23:58:20] [Fees Management] [Database] Connected with sqlite
+[2023-05-07 23:58:20] [Fees Management] [Database] Enabled
+[2023-05-07 23:58:20] [Fees Management] [Fetch] Record Successfully
+[2023-05-07 23:58:20] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 23:58:20] [Fees Management] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:58:20] [Fees Management] [Fetch] Record Successfully
+[2023-05-07 23:58:20] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 23:58:20] [Fees Management] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:58:20] [Fees Management] [ID Refresh] Successfully
+[2023-05-07 23:58:20] [Fees Management] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:58:20] [Open Form] FeesManagement_frm
+[2023-05-07 23:58:22] [Attendance Details] [Database] Connected with sqlite
+[2023-05-07 23:58:22] [Attendance Details] [Database] Enabled
+[2023-05-07 23:58:22] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:58:22] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:58:22] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:58:22] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:58:22] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:58:22] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:58:22] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:58:22] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-05-07 23:58:22] [Open Form] AttendanceDetails_frm
+[2023-05-07 23:58:23] [Attendance Details] [Get Data] Record 1004 Selected Successfully
+[2023-05-07 23:58:25] [Attendance Details] [Fetch] Record Successfully
+[2023-05-07 23:58:25] [Attendance Details] [ID Refresh] Successfully
+[2023-05-07 23:58:25] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-05-07 23:58:25] [Attendance Details] [Delete Record] Record With ID 1004 Deleted Successfully
+Log File Ended [2023-05-07 23:58:28]
+
