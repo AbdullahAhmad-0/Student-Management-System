@@ -1,0 +1,113 @@
+Log File Created [2023-04-18 12:24:37]
+[2023-04-18 12:24:44] [Classes] [Database] Connected with sqlite
+[2023-04-18 12:24:44] [Classes] [Database] Enabled
+[2023-04-18 12:24:44] [Classes] [Fetch] Record Successfully
+[2023-04-18 12:24:44] [Classes] [ID Refresh] Successfully
+[2023-04-18 12:24:44] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:24:44] [Classes] [Fetch] Record Successfully
+[2023-04-18 12:24:44] [Classes] [ID Refresh] Successfully
+[2023-04-18 12:24:44] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-18 12:24:44] [Classes] [ID Refresh] Successfully
+[2023-04-18 12:24:44] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:24:44] [Open Form] Classes_frm
+[2023-04-18 12:24:47] [Student Form] [Database] Connected with sqlite
+[2023-04-18 12:24:47] [Student Form] [Database] Enabled
+[2023-04-18 12:24:47] [Student Form] [Fetch] Record Successfully
+[2023-04-18 12:24:47] [Student Form] [ID Refresh] Successfully
+[2023-04-18 12:24:47] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:24:47] [Student Form] [Fetch] Record Successfully
+[2023-04-18 12:24:47] [Student Form] [ID Refresh] Successfully
+[2023-04-18 12:24:47] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-18 12:24:47] [Student Form] [ID Refresh] Successfully
+[2023-04-18 12:24:47] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:24:47] [Open Form] StudentForm_frm
+[2023-04-18 12:24:50] [Classes] [Database] Connected with sqlite
+[2023-04-18 12:24:50] [Classes] [Database] Enabled
+[2023-04-18 12:24:50] [Classes] [Fetch] Record Successfully
+[2023-04-18 12:24:50] [Classes] [ID Refresh] Successfully
+[2023-04-18 12:24:50] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:24:50] [Classes] [Fetch] Record Successfully
+[2023-04-18 12:24:50] [Classes] [ID Refresh] Successfully
+[2023-04-18 12:24:50] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-18 12:24:50] [Classes] [ID Refresh] Successfully
+[2023-04-18 12:24:50] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:24:51] [Open Form] Classes_frm
+[2023-04-18 12:25:01] [Classes] [Database] Connected with sqlite
+[2023-04-18 12:25:01] [Classes] [Database] Enabled
+[2023-04-18 12:25:01] [Classes] [Fetch] Record Successfully
+[2023-04-18 12:25:01] [Classes] [ID Refresh] Successfully
+[2023-04-18 12:25:01] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:25:01] [Classes] [Fetch] Record Successfully
+[2023-04-18 12:25:01] [Classes] [ID Refresh] Successfully
+[2023-04-18 12:25:01] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-18 12:25:01] [Classes] [ID Refresh] Successfully
+[2023-04-18 12:25:01] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:25:01] [Open Form] Classes_frm
+[2023-04-18 12:25:03] [Student Form] [Database] Connected with sqlite
+[2023-04-18 12:25:03] [Student Form] [Database] Enabled
+[2023-04-18 12:25:03] [Student Form] [Fetch] Record Successfully
+[2023-04-18 12:25:03] [Student Form] [ID Refresh] Successfully
+[2023-04-18 12:25:03] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:25:03] [Student Form] [Fetch] Record Successfully
+[2023-04-18 12:25:03] [Student Form] [ID Refresh] Successfully
+[2023-04-18 12:25:03] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-18 12:25:03] [Student Form] [ID Refresh] Successfully
+[2023-04-18 12:25:03] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:25:03] [Open Form] StudentForm_frm
+[2023-04-18 12:25:05] [Attendance Details] [Database] Connected with sqlite
+[2023-04-18 12:25:05] [Attendance Details] [Database] Enabled
+[2023-04-18 12:25:05] [Attendance Details] [Fetch] Record Successfully
+[2023-04-18 12:25:06] [Attendance Details] [ID Refresh] Successfully
+[2023-04-18 12:25:06] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:25:06] [Attendance Details] [Fetch] Record Successfully
+[2023-04-18 12:25:06] [Attendance Details] [ID Refresh] Successfully
+[2023-04-18 12:25:06] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-18 12:25:06] [Attendance Details] [ID Refresh] Successfully
+[2023-04-18 12:25:06] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:25:06] [Open Form] AttendanceDetails_frm
+[2023-04-18 12:25:08] [Fees Management] [Database] Connected with sqlite
+[2023-04-18 12:25:08] [Fees Management] [Database] Enabled
+[2023-04-18 12:25:08] [Fees Management] [Fetch] Record Successfully
+[2023-04-18 12:25:08] [Fees Management] [ID Refresh] Successfully
+[2023-04-18 12:25:08] [Fees Management] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:25:08] [Fees Management] [Fetch] Record Successfully
+[2023-04-18 12:25:08] [Fees Management] [ID Refresh] Successfully
+[2023-04-18 12:25:08] [Fees Management] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-18 12:25:08] [Fees Management] [ID Refresh] Successfully
+[2023-04-18 12:25:08] [Fees Management] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:25:08] [Open Form] FeesManagement_frm
+[2023-04-18 12:25:30] [Classes] [Database] Connected with sqlite
+[2023-04-18 12:25:30] [Classes] [Database] Enabled
+[2023-04-18 12:25:30] [Classes] [Fetch] Record Successfully
+[2023-04-18 12:25:30] [Classes] [ID Refresh] Successfully
+[2023-04-18 12:25:30] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:25:30] [Classes] [Fetch] Record Successfully
+[2023-04-18 12:25:30] [Classes] [ID Refresh] Successfully
+[2023-04-18 12:25:30] [Classes] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-18 12:25:30] [Classes] [ID Refresh] Successfully
+[2023-04-18 12:25:30] [Classes] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:25:30] [Open Form] Classes_frm
+[2023-04-18 12:25:36] [Student Form] [Database] Connected with sqlite
+[2023-04-18 12:25:36] [Student Form] [Database] Enabled
+[2023-04-18 12:25:36] [Student Form] [Fetch] Record Successfully
+[2023-04-18 12:25:36] [Student Form] [ID Refresh] Successfully
+[2023-04-18 12:25:36] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:25:36] [Student Form] [Fetch] Record Successfully
+[2023-04-18 12:25:36] [Student Form] [ID Refresh] Successfully
+[2023-04-18 12:25:36] [Student Form] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-18 12:25:36] [Student Form] [ID Refresh] Successfully
+[2023-04-18 12:25:36] [Student Form] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:25:36] [Open Form] StudentForm_frm
+[2023-04-18 12:25:39] [Attendance Details] [Database] Connected with sqlite
+[2023-04-18 12:25:39] [Attendance Details] [Database] Enabled
+[2023-04-18 12:25:40] [Attendance Details] [Fetch] Record Successfully
+[2023-04-18 12:25:40] [Attendance Details] [ID Refresh] Successfully
+[2023-04-18 12:25:40] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:25:40] [Attendance Details] [Fetch] Record Successfully
+[2023-04-18 12:25:40] [Attendance Details] [ID Refresh] Successfully
+[2023-04-18 12:25:40] [Attendance Details] [Clear] All Fields And Refresh Interface Successfully
+[2023-04-18 12:25:40] [Attendance Details] [ID Refresh] Successfully
+[2023-04-18 12:25:40] [Attendance Details] [After Refresh]	[Root Width] 1366, [Root Height] 748
+[2023-04-18 12:25:40] [Open Form] AttendanceDetails_frm
+Log File Ended [2023-04-18 12:26:01]
+
